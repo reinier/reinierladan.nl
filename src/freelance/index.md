@@ -4,56 +4,43 @@ title: Freelance product manager Reinier Ladan
 currentNav: freelance
 ---
 
-<p class="text-center mb-12">🇳🇱 Liever deze pagina <a href="https://reinierladan.nl">in het Nederlands lezen</a>?</p>
+<p class="text-center mb-12">🇬🇧 This page is also <a href="https://reinierladan.com">available to read in English</a>.</p>
 
 <div class="img-content-rounded">
 <img
  src="/images/reinier-profile-2019.jpg"
- alt="profile picture of Reinier Ladan"
+ alt="profielfoto van Reinier Ladan"
  />
  </div>
- <h1 class="homepage-headline text-center">Hi! I'm Reinier Ladan and I'm a…</h1>
+ <h1 class="homepage-headline text-center">Hi! Ik heet Reinier Ladan en ik ben een…</h1>
 
-## Freelance (remote) product manager and design consultant
+## Freelance (remote) product owner en design consultant
 
-I’ve been creating digital products by managing product teams, designing user interfaces, and building
-prototypes since the late 90s. As of 2016 I’ve focused all my time and energy on **product management and consulting
-product and design teams.**
+Als freelance product manager en design consultant help ik organisaties bij het opstarten, verbeteren en doorontwikkelen van digitale producten en diensten.
 
-👔 [Feel free to connect on LinkedIn!](https://www.linkedin.com/in/reinierladan) I’m always open for new connections and opportunities.
+De afgelopen 20 jaar heb ik dat onder andere gedaan voor de NOS, NPO, De Nederlandse Taalunie, NRC, Ministerie van VWS, Schiphol, Liberty Global (Ziggo), Backbase, Funda en DPG Media.
 
-I’m available for freelance (remote) product management projects.
+![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
 
-- On-site in and around Amsterdam, the Netherlands
-- Remote is no problem at all. I’m located in the GMT+1 time zone and I have my own dedicated office space at home.
-- I’m happy with my current freelance situation, but if you have the perfect fit for me and it’s a permanent position, don’t hesitate to contact me.
+_Insert The quintessential block of client logos._
 
-I live just 5 km north of Amsterdam, in Zaandam. Famous for its windmills, cookies and mustard. I speak Dutch (native language), English and Jira.
+### Een greep uit de projecten die ik de afgelopen twintig jaar heb gedaan
 
-The world is changing. Business, people, technology, everything is changing faster and faster. That’s why I focus on an agile way of working like Scrum or Kanban. To get stuff done in such an environment, you have to align with your team members and have a shared vision for your product and service. **It’s my job as a product owner/manager to get everybody on that same page.** This way we can solve the most critical problems and aim for the most valuable objectives.
+- NOS websites and apps
 
-**With my experience in both UX design and software engineering, I can help the product team explore viable solutions.** The thing that drives me the most is diving into the nitty-gritty details of problems and objectives, and figure out why they exist and what needs to be solved first to get the most value for the business and the customer, user and client.
+- Amsterdam Airport Schiphol
 
-**I've had the pleasure to work with many great companies** and create some pretty awesome products. I helped Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch BBC News), NPO (the Dutch BBC), and many others, with creating and improving their digital strategy, products and services.
+- Backbase Design System
 
-![Logos of clients I've worked for](/images/client-overview-2020.png)
+- CoronaMelder
 
-### Some highlights among my many projects
+### Tijdlijn van werkervaring
 
-- [NOS websites and apps](/freelance/projects/nos)
-- [Amsterdam Airport Schiphol](/freelance/projects/schiphol)
-- [Backbase Design System](/freelance/projects/backbase)
-- [CoronaMelder](/freelance/projects/coronamelder)
+_Image of timeline_
 
-### Timeline of work experience
+### Neem contact met me op
 
-<div class="break-out py-10 lg:px-8">
- <a href="/images/Werk-ervaring-timeline-2022.png"><img src="/images/Werk-ervaring-timeline-2022-1980x537.png" alt="Timeline of Reinier Ladan's work experience"></a>
-</div>
+Call me if you need to discuss something that absolutely cannot wait. Anything else I prefer e-mail or Whatsapp/iMessage.
 
-### Contact me
-
-Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or Whatsapp/iMessage.
-
-- Email: reinier@ladan.email
-- Call, WhatsApp, iMessage, Telegram: +31624872725
+Email: reinier@ladan.email
+Call, WhatsApp, iMessage, Telegram: +31624872725

@@ -1,6 +1,8 @@
 const fs = require("fs");
 const htmlmin = require("html-minifier");
 
+const { DateTime } = require("luxon");
+
 module.exports = function (eleventyConfig) {
 
 	if (process.env.ELEVENTY_PRODUCTION) {
@@ -15,6 +17,21 @@ module.exports = function (eleventyConfig) {
 
 	// Watch targets
 	eleventyConfig.addWatchTarget("./src/styles/");
+
+	// <3 https://bnijenhuis.nl/notes/dates-in-eleventy/
+
+ 	// Filters
+ 	eleventyConfig.addFilter("readablePostDate", (dateObj) => {
+ 		return DateTime.fromJSDate(dateObj, {
+ 			zone: "Europe/Amsterdam"
+ 		}).setLocale('nl-NL').toFormat('dd MMMM, yyyy');
+ 	});
+
+ 	eleventyConfig.addFilter("postDate", (dateObj) => {
+ 		return DateTime.fromJSDate(dateObj, {
+ 			zone: "Europe/Amsterdam"
+ 		}).setLocale('en').toISODate();
+ 	});
 
 	var pathPrefix = "";
 	if (process.env.GITHUB_REPOSITORY) {
