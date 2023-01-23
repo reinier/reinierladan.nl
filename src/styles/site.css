@@ -1,0 +1,214 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@font-face {
+		font-family: 'Public Sans webfont';
+		src: url('/fonts/PublicSans-Regular.woff2') format('woff2'),
+			url('/fonts/PublicSans-Regular.woff') format('woff'),
+			url('/fonts/PublicSans-Regular.ttf') format('truetype');
+		font-weight: 400;
+		font-style: normal;
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Public Sans webfont';
+		src: url('/fonts/PublicSans-Bold.woff2') format('woff2'),
+			url('/fonts/PublicSans-Bold.woff') format('woff'),
+			url('/fonts/PublicSans-Bold.ttf') format('truetype');
+		font-weight: 700;
+		font-style: normal;
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Public Sans webfont';
+		src: url('/fonts/PublicSans-Italic.woff2') format('woff2'),
+			url('/fonts/PublicSans-Italic.woff') format('woff'),
+			url('/fonts/PublicSans-Italic.ttf') format('truetype');
+		font-weight: 400;
+		font-style: italic;
+		font-display: swap;
+	}
+
+	body {
+
+		@apply font-publicsans;
+		
+		background: #fff url("/images/bg-reinierladan-white.svg") no-repeat center -230px/1440px 588px;
+
+		text-rendering: optimizeLegibility;
+		font-variant-ligatures: common-ligatures;
+		-webkit-font-variant-ligatures: common-ligatures;
+		-webkit-font-feature-settings: "kern";
+		font-feature-settings: "kern";
+		font-kerning: normal;
+
+	}
+
+	p {
+		@apply mb-4;
+	}
+
+	header {
+		@apply h-64;
+	}
+
+	main,
+	footer {
+		@apply container mx-auto px-8 max-w-prose;
+	}
+
+	main p,
+	main ul {
+		@apply text-xl;
+	}
+
+	main ul {
+		@apply ml-8 list-disc pb-4;
+	}
+
+	main ul li {
+		@apply mb-2;
+	}
+
+	main p > img {
+		@apply my-8;
+	}
+
+	footer {
+		@apply border-t-4 mt-8 pt-8;
+	}
+
+	a {
+		text-decoration: underline;
+		color: #d83b50;
+	}
+
+	h1,
+	h3 {
+		@apply font-bold;
+	}
+
+	h1 {
+		@apply text-4xl mb-4;
+		text-align: center;
+
+	}
+
+	h2 {
+		@apply text-3xl my-8 font-bold;
+	}
+
+	h3 {
+		@apply text-2xl mb-6;
+	}
+
+	strong {
+		@apply font-extrabold;
+	}
+}
+
+@layer components {
+
+/* NAV COMPONENT */
+
+	.nav-Menu {
+		background-color: rgba(255, 255, 255, 0.9);
+		margin-top: 0 !important;
+		margin-right: 0 !important;
+		border-bottom: 2px solid rgba(0, 0, 0, 0.414);
+		@apply p-2 flex flex-col lg:flex-row gap-4 lg:gap-2 text-right my-2 lg:mb-0 mr-2 lg:mr-6 ml-0;
+
+		.rl-nav-item {
+			@apply list-none hidden font-bold text-2xl lg:block pr-3 my-0 lg:mt-6 lg:mx-0;
+		}
+
+		.rl-active a {
+			color: #000;
+		}
+
+		.go-to-home {
+			@apply block py-2 my-0 mr-auto ml-6 lg:mt-0 lg:mb-1 lg:tracking-normal lg:leading-none;
+		}
+	}
+
+	#nav-Toggle {
+		position: absolute;
+		right: 17px;
+		top: 6px;
+	}
+
+	#nav-Checkbox:checked~ul.nav-Menu li,
+	#nav-Checkbox:checked~label#nav-Toggle #svg-close {
+		@apply block;
+	}
+
+	#nav-Checkbox:checked~label#nav-Toggle #svg-menu {
+		@apply hidden;
+	}
+
+	.header-logo {
+		width: 64px;
+		height: 64px;
+	}
+
+	.rl-logo span {
+		display: block;
+		position: absolute;
+		left: 94px;
+		top: 40px;
+	}
+
+/* END NAV COMPONENT */
+
+	.homepage-headline {
+		@apply text-lg;
+	}
+	.site-intro {
+		@apply mb-16;
+	}
+
+	.site-intro p {
+		@apply text-2xl font-light;
+	}
+
+	.img-content-rounded {
+		@apply flex flex-wrap justify-center pb-8;
+	}
+
+	.img-content-rounded img {
+		@apply object-cover w-64 shadow-lg object-center rounded-full;
+	}
+
+	.img-content {
+		@apply flex flex-wrap justify-center pb-8 m-4;
+
+		img {
+			@apply object-cover w-2/3 shadow-lg object-center;
+		}
+	}
+
+	.img-content-group {
+		margin: 1em calc(50% - 50vw);
+		text-align: center;
+
+		img {
+			@apply w-72 shadow-lg;
+			display: inline-block;
+		}
+	}
+
+}
+
+@layer utilities {
+	.break-out {
+		margin: 1em calc(50% - 50vw);
+
+		> img {
+			@apply mx-auto;
+		}
+	}
+}

@@ -1,0 +1,22 @@
+[
+	{
+		"id": "freelance",
+		"title": "Freelance",
+		"url": "/freelance"
+	},
+	{
+		"id": "contact",
+		"title": "Contact",
+		"url": "/contact"
+	},
+	{
+		"id": "blog",
+		"title": "Blog",
+		"url": "/blog"
+	},
+	{
+		"id": "nl",
+		"title": "🇳🇱 NL",
+		"url": "https://reinierladan.nl"
+	}
+]

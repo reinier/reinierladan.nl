@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"*.njk": "html"
+	},
+	"editor.renderWhitespace": "all",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"files.insertFinalNewline": true
+}
