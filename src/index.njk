@@ -5,28 +5,44 @@ eleventyExcludeFromCollections: true
 ---
 
 <div class="img-content-rounded">
-	<img src="/images/reinier-profile-2019.jpg" alt="profile picture of Reinier Ladan" />
+    <img src="/images/reinier-profile-2019.jpg" alt="profile picture of Reinier Ladan"/>
 </div>
-
-<h1 class="text-center">Hi, I'm Reinier Ladan 👋</h1>
-
-
-<div class="site-intro text-center">
-	<p>Since the late 90s I’ve been creating digital products by managing product teams, designing user interfaces, and
-		building prototypes. The last 7 years I’ve focused all my time and energy on <strong>product management and
-			consulting product and design teams.</strong></p>
+<h1 class="text-center">Hi, Reinier hier.</h1>
+<div class="site-intro">
+    <p>Als freelance product manager en design consultant help ik organisaties bij het opstarten, lanceren en doorontwikkelen van digitale producten en diensten.</p>
+    <p>Daarnaast schrijf ik
+        <a href="/nieuwsbrief">een wekelijkse nieuwsbrief</a>
+        en deel ik op
+        <a href="/nieuwsbrief">mijn blog</a>
+        graag apptips, recepten en allerlei interesants wat ik online tegenkom.</p>
 </div>
-
-<div class="py-8">
-	<p><a href="/freelance/" class="font-bold text-3xl">/freelance</a><br>Read more about my professional work as a
-		product manager and design consultant.</p>
+<div class="py-10">
+    <p>
+        <a href="/freelance" class="font-bold text-3xl">/freelance</a>
+        <br/> Lees meer over mijn freelance werkzaamheden als product manager en design consultant.
+    </p>
 </div>
-
-<div class="pb-8">
-	<p><a href="/blog" class="font-bold text-3xl">/blog</a><br>Sometimes I write a blog post. When that happens, you can
-		find it here.</p>
+<div class="pt-2 pb-10">
+    <p>
+        <a href="/nieuwsbrief" class="font-bold text-3xl">/nieuwsbrief</a>
+        <br/> Mijn nieuwsbrief is over het algemeen een wekelijks allegaartje van alle dingen die ik online heb gedeelt en extra interessante dingen die ik ben tegengekomen op het grote openbare netwerk dat we Het Internet noemen.</p>
 </div>
-
-<div class="pb-8">
-	<p><a href="/contact" class="font-bold text-3xl">/contact</a><br>All the different ways you can reach out to me.</p>
+<div class="pt-2">
+    <p>
+        <a href="/blog" class="font-bold text-3xl">/blog</a>
+        <br/>Bezoek mijn weblog om te zien wat ik allemaal deel. Recepten, apptips, overpeizingen over wereldpolitiek, van alles.<br/>
+        <strong>Laatste berichten op mijn blog:</strong>
+    </p>
+</div>
+<ul class="pb-10">
+    {%- for post in collections.blog -%}
+        <li>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+        </li>
+    {%- endfor -%}
+</ul>
+<div class="pt-2">
+    <p>
+        <a href="/contact" class="font-bold text-3xl">/contact</a>
+        <br/>Zoek je contact met me? Vragen, voorstellen, opmerkingen, feedback, alles is welkom.</p>
 </div>

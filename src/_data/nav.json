@@ -5,9 +5,10 @@
 		"url": "/freelance"
 	},
 	{
-		"id": "contact",
-		"title": "Contact",
-		"url": "/contact"
+		"id": "nieuwsbrief",
+		"title": "Nieuwsbrief",
+		"url": "/nieuwsbrief",
+		"urlCheck": "/nieuwsbrief"
 	},
 	{
 		"id": "blog",
@@ -15,8 +16,13 @@
 		"url": "/blog"
 	},
 	{
-		"id": "nl",
-		"title": "🇳🇱 NL",
-		"url": "https://reinierladan.nl"
+		"id": "contact",
+		"title": "Contact",
+		"url": "/contact"
+	},
+	{
+		"id": "en",
+		"title": "🇬🇧 EN",
+		"url": "https://reinierladan.com"
 	}
 ]

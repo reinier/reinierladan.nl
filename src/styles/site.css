@@ -4,40 +4,40 @@
 
 @layer base {
 	@font-face {
-		font-family: 'Public Sans webfont';
-		src: url('/fonts/PublicSans-Regular.woff2') format('woff2'),
-			url('/fonts/PublicSans-Regular.woff') format('woff'),
-			url('/fonts/PublicSans-Regular.ttf') format('truetype');
+		font-family: "Public Sans webfont";
+		src: url("/fonts/PublicSans-Regular.woff2") format("woff2"),
+			url("/fonts/PublicSans-Regular.woff") format("woff"),
+			url("/fonts/PublicSans-Regular.ttf") format("truetype");
 		font-weight: 400;
 		font-style: normal;
 		font-display: swap;
 	}
 
 	@font-face {
-		font-family: 'Public Sans webfont';
-		src: url('/fonts/PublicSans-Bold.woff2') format('woff2'),
-			url('/fonts/PublicSans-Bold.woff') format('woff'),
-			url('/fonts/PublicSans-Bold.ttf') format('truetype');
+		font-family: "Public Sans webfont";
+		src: url("/fonts/PublicSans-Bold.woff2") format("woff2"),
+			url("/fonts/PublicSans-Bold.woff") format("woff"),
+			url("/fonts/PublicSans-Bold.ttf") format("truetype");
 		font-weight: 700;
 		font-style: normal;
 		font-display: swap;
 	}
 
 	@font-face {
-		font-family: 'Public Sans webfont';
-		src: url('/fonts/PublicSans-Italic.woff2') format('woff2'),
-			url('/fonts/PublicSans-Italic.woff') format('woff'),
-			url('/fonts/PublicSans-Italic.ttf') format('truetype');
+		font-family: "Public Sans webfont";
+		src: url("/fonts/PublicSans-Italic.woff2") format("woff2"),
+			url("/fonts/PublicSans-Italic.woff") format("woff"),
+			url("/fonts/PublicSans-Italic.ttf") format("truetype");
 		font-weight: 400;
 		font-style: italic;
 		font-display: swap;
 	}
 
 	body {
-
 		@apply font-publicsans;
-		
-		background: #fff url("/images/bg-reinierladan-white.svg") no-repeat center -230px/1440px 588px;
+
+		background: #fff url("/images/bg-reinierladan-white.svg") no-repeat
+			center -230px/1440px 588px;
 
 		text-rendering: optimizeLegibility;
 		font-variant-ligatures: common-ligatures;
@@ -45,7 +45,6 @@
 		-webkit-font-feature-settings: "kern";
 		font-feature-settings: "kern";
 		font-kerning: normal;
-
 	}
 
 	p {
@@ -95,7 +94,6 @@
 	h1 {
 		@apply text-4xl mb-4;
 		text-align: center;
-
 	}
 
 	h2 {
@@ -112,8 +110,7 @@
 }
 
 @layer components {
-
-/* NAV COMPONENT */
+	/* NAV COMPONENT */
 
 	.nav-Menu {
 		background-color: rgba(255, 255, 255, 0.9);
@@ -141,12 +138,12 @@
 		top: 6px;
 	}
 
-	#nav-Checkbox:checked~ul.nav-Menu li,
-	#nav-Checkbox:checked~label#nav-Toggle #svg-close {
+	#nav-Checkbox:checked ~ ul.nav-Menu li,
+	#nav-Checkbox:checked ~ label#nav-Toggle #svg-close {
 		@apply block;
 	}
 
-	#nav-Checkbox:checked~label#nav-Toggle #svg-menu {
+	#nav-Checkbox:checked ~ label#nav-Toggle #svg-menu {
 		@apply hidden;
 	}
 
@@ -162,7 +159,7 @@
 		top: 40px;
 	}
 
-/* END NAV COMPONENT */
+	/* END NAV COMPONENT */
 
 	.homepage-headline {
 		@apply text-lg;
@@ -200,7 +197,6 @@
 			display: inline-block;
 		}
 	}
-
 }
 
 @layer utilities {
