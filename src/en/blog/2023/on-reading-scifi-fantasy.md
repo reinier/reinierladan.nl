@@ -1,10 +1,10 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: On reading sci-fi and fantasy books
 description: Nine years ago, I decided that I needed a hobby to wind down after a day of cracking my brain at work. It had to be something engaging, but it couldn’t feel like work. The perfect solution for me was to start reading sci-fi and fantasy books. Good sci-fi/fantasy books are engaging and — unlike non-fiction — they feel like entertainment.
 date: 2023-01-20
 tags:
-  - bericht
+  - blogpost
   - reading
   - books
 ---

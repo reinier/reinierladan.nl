@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    {% include '../head-en.njk' %}
+    {% include '../header-en.njk' %}
+    <body>
+        <main>
+            {{ content | safe }}
+        </main>
+        <!-- Current page: {{ page.url | url }} -->
+        {% include '../footer-en.njk' %}
+    </body>
+</html>

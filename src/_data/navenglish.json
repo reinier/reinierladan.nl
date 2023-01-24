@@ -2,21 +2,16 @@
 	{
 		"id": "freelance",
 		"title": "Freelance",
-		"url": "/freelance/"
-	},
-	{
-		"id": "nieuwsbrief",
-		"title": "Nieuwsbrief",
-		"url": "/nieuwsbrief/"
+		"url": "/en/freelance/"
 	},
 	{
 		"id": "blog",
 		"title": "Blog",
-		"url": "/blog/"
+		"url": "/en/blog/"
 	},
 	{
 		"id": "contact",
 		"title": "Contact",
-		"url": "/contact/"
+		"url": "/en/contact/"
 	}
 ]
