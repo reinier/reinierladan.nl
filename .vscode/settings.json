@@ -1,6 +1,7 @@
 {
 	"files.associations": {
-		"*.njk": "njk"
+		"*.njk": "njk",
+		"*.css": "tailwindcss"
 	},
 	"editor.renderWhitespace": "all",
 	"editor.formatOnSave": true,

@@ -16,31 +16,42 @@ currentNav: freelance
 
 ## Freelance (remote) product owner en design consultant
 
-Als freelance product manager en design consultant help ik organisaties bij het opstarten, verbeteren en doorontwikkelen van digitale producten en diensten.
+De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
-De afgelopen 20 jaar heb ik dat onder andere gedaan voor de NOS, NPO, De Nederlandse Taalunie, NRC, Ministerie van VWS, Schiphol, Liberty Global (Ziggo), Backbase, Funda en DPG Media.
+Sinds 2016 heb ik me volledig gericht op product management. Ik sta voor je klaar in de rol van product owner, product manager, design consultant of design manager. Er zijn veel rollen die hierop lijken of veel overeenkomsten ermee hebben. Schroom niet om contact met me hierover op te nemen als je denkt dat de rol die je beschikbaar hebt een match voor me is.
+
+Naast veel algemene vaardigheden die van pas komen bij het zijn van een product manager, heb ik ook wat specialiteiten: accessibility, design systems, user experience, user research, slim werken, duidelijk communiceren en kennis en ervaring met web- en app development.
+
+Door mijn unieke ervaring als developer, designer én manager help ik het product team en de stakeholders tot bruikbare en realistische oplossingen te komen. Daarnaast ben ik extreem georganiseerd, duik ik graag in bedrijfsspecifieke materie en hou ik mezelf dagelijks up-to-date over mijn vakgebied.
+
+👔 [Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan) en ik sta altijd open voor nieuwe connecties.
+
+Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
 
 ![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
 
-_Insert The quintessential block of client logos._
+### Een paar highlights uit mijn professionele carrière
 
-### Een greep uit de projecten die ik de afgelopen twintig jaar heb gedaan
+- 📰 [Van developer naar designer bij de NOS](/freelance/projecten/nos)
 
-- NOS websites and apps
+- 📡 [Alles samen onder NPO.nl](/freelance/projecten/npo)
 
-- Amsterdam Airport Schiphol
+- 📺 [Alle Nederlandse zenders op NLZiet](/freelance/projecten/nlziet)
 
-- Backbase Design System
+- 🛫 [Van designer naar product manager bij Schiphol](/freelance/projecten/schiphol)
 
-- CoronaMelder
+- 🏦 [Scale-up fin-tech bij Backbase](/freelance/projecten/backbase)
+
+- 🦠 [Mensen waarschuwen over Corona met CoronaMelder](/freelance/projecten/coronamelder)
 
 ### Tijdlijn van werkervaring
 
-_Image of timeline_
+In het onderstaande schema krijg je een indruk van mijn professionele carrière.
 
-### Neem contact met me op
+<div class="break-out py-10 lg:px-8 text-center">
+ <a href="/images/Werk-ervaring-timeline-2022.png"><img src="/images/Werk-ervaring-timeline-2022-1980x537.png" alt="Timeline of Reinier Ladan's work experience"></a>
+</div>
 
-Call me if you need to discuss something that absolutely cannot wait. Anything else I prefer e-mail or Whatsapp/iMessage.
+### Meer weten?
 
-Email: reinier@ladan.email
-Call, WhatsApp, iMessage, Telegram: +31624872725
+Meer weten of gewoon even peilen of ik beschikbaar ben? [Neem contact met me op](/contact).

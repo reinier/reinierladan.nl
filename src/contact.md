@@ -1,16 +1,23 @@
 ---
 layout: layouts/base.njk
-title: Freelance product manager Reinier Ladan
+title: Neem contact op met Reinier Ladan
 eleventyExcludeFromCollections: true
 ---
 
-# Contact Reinier Ladan
+# Contactinformatie Reinier Ladan
 
-Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or Whatsapp/iMessage.
+Contact via e-mail heeft mijn voorkeur, zo blijf ik baas over mijn eigen concentratie en tijd. Mocht je nou wel echt iets _heel urgents_ hebben dan is bellen geen probleem.
 
-- Email: reinier@ladan.email
-- Call, WhatsApp, iMessage, Telegram: +31624872725
+- E-mail: reinier@ladan.email
+- Bellen, WhatsApp, iMessage, Telegram: 06 2487 2725
 
-## Business info
+## Informatie over Digital Energy BV
 
-My company name is **Digital Energy BV** and is registered as a _[besloten vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap)_ in The Netherlands. The company id at the Amsterdam Chambre of Commerce is 24310329 and the VAT id is NL811020496B01.
+Digital Energy B.V. is de holding voor mijn professionele werkzaamheden die ik uitvoer als freelancer.
+
+Administratieve informatie over Digital Energy BV:
+- BTW nummer: 811020496B01,
+- KvK nummer: 24310329,
+(deze informatie staat ook altijd op de factuur vermeld).
+
+De Algemene Voorwaarden waaronder Digital Energy B.V. zaken doet staan hier op Github: [Algemene Voorwaarden Digital Energy BV.](https://github.com/reinier/readmes/blob/master/algemene-voorwaarden.digital-energy-bv.md) Je bent dus vrij om voorstellen te doen om deze te verbeteren en een pull request in te schieten. 👍.

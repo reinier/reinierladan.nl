@@ -107,6 +107,13 @@
 	strong {
 		@apply font-extrabold;
 	}
+
+	blockquote {
+		@apply pl-8;
+		color: #333332;
+		border-left: 4px solid #999;
+		font-style: italic;
+	}
 }
 
 @layer components {
@@ -181,10 +188,14 @@
 	}
 
 	.img-content {
-		@apply flex flex-wrap justify-center pb-8 m-4;
+		@apply flex flex-wrap justify-center m-4 mt-8;
 
 		img {
 			@apply object-cover w-2/3 shadow-lg object-center;
+		}
+
+		p {
+			@apply text-sm mt-3;
 		}
 	}
 
@@ -203,7 +214,8 @@
 	.break-out {
 		margin: 1em calc(50% - 50vw);
 
-		> img {
+		> img,
+		> a > img {
 			@apply mx-auto;
 		}
 	}
