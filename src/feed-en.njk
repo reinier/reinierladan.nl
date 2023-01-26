@@ -1,7 +1,7 @@
 ---
 permalink: /feed-en.xml
 eleventyExcludeFromCollections : true
-metadata : 
+feeddata : 
 	title: Reinier Ladan Blog
 	subtitle: Everything everywhere all at once
 	language: en
@@ -11,25 +11,25 @@ metadata :
 		email: reinier@digitalenergy.nl
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ metadata.url }}">
-    <title>{{ metadata.title }}</title>
-    <subtitle>{{ metadata.subtitle }}</subtitle>
-    <link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self"/>
-    <link href="{{ metadata.url }}"/>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ feeddata.url }}">
+    <title>{{ feeddata.title }}</title>
+    <subtitle>{{ feeddata.subtitle }}</subtitle>
+    <link href="{{ permalink | absoluteUrl(feeddata.url) }}" rel="self"/>
+    <link href="{{ feeddata.url }}"/>
     <updated>{{ collections.blogpost | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-    <id>{{ metadata.url }}</id>
+    <id>{{ feeddata.url }}</id>
     <author>
-        <name>{{ metadata.author.name }}</name>
-        <email>{{ metadata.author.email }}</email>
+        <name>{{ feeddata.author.name }}</name>
+        <email>{{ feeddata.author.email }}</email>
     </author>
     {%- for post in collections.blogpost | reverse %}
-        {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
+        {%- set absolutePostUrl = post.url | absoluteUrl(feeddata.url) %}
         <entry>
             <title>{{ post.data.title }}</title>
             <link href="{{ absolutePostUrl }}"/>
             <updated>{{ post.date | dateToRfc3339 }}</updated>
             <id>{{ absolutePostUrl }}</id>
-            <content xml:lang="{{ metadata.language }}" type="html">{{ post.templateContent |
+            <content xml:lang="{{ feeddata.language }}" type="html">{{ post.templateContent |
 			htmlToAbsoluteUrls(absolutePostUrl) }}</content>
         </entry>
     {%- endfor %}
