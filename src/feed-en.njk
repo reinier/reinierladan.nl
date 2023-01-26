@@ -1,35 +1,27 @@
 ---
 permalink: /feed-en.xml
 eleventyExcludeFromCollections : true
-feeddata : 
-	title: Reinier Ladan Blog
-	subtitle: Everything everywhere all at once
-	language: en
-	url: https://reinierladan.nl/en/
-	author: 
-		name: Reinier Ladan
-		email: reinier@digitalenergy.nl
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ feeddata.url }}">
-    <title>{{ feeddata.title }}</title>
-    <subtitle>{{ feeddata.subtitle }}</subtitle>
-    <link href="{{ permalink | absoluteUrl(feeddata.url) }}" rel="self"/>
-    <link href="{{ feeddata.url }}"/>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ feeddataenglish.url }}">
+    <title>{{ feeddataenglish.title }}</title>
+    <subtitle>{{ feeddataenglish.subtitle }}</subtitle>
+    <link href="{{ permalink | absoluteUrl(feeddataenglish.url) }}" rel="self"/>
+    <link href="{{ feeddataenglish.url }}"/>
     <updated>{{ collections.blogpost | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-    <id>{{ feeddata.url }}</id>
+    <id>{{ feeddataenglish.url }}</id>
     <author>
-        <name>{{ feeddata.author.name }}</name>
-        <email>{{ feeddata.author.email }}</email>
+        <name>{{ feeddataenglish.author.name }}</name>
+        <email>{{ feeddataenglish.author.email }}</email>
     </author>
     {%- for post in collections.blogpost | reverse %}
-        {%- set absolutePostUrl = post.url | absoluteUrl(feeddata.url) %}
+        {%- set absolutePostUrl = post.url | absoluteUrl(feeddataenglish.url) %}
         <entry>
             <title>{{ post.data.title }}</title>
             <link href="{{ absolutePostUrl }}"/>
             <updated>{{ post.date | dateToRfc3339 }}</updated>
             <id>{{ absolutePostUrl }}</id>
-            <content xml:lang="{{ feeddata.language }}" type="html">{{ post.templateContent |
+            <content xml:lang="{{ feeddataenglish.language }}" type="html">{{ post.templateContent |
 			htmlToAbsoluteUrls(absolutePostUrl) }}</content>
         </entry>
     {%- endfor %}
