@@ -94,6 +94,22 @@
 	h1 {
 		@apply text-4xl mb-4;
 		text-align: center;
+		color: transparent;
+		background: conic-gradient(
+			#d83b50 12%,
+			#f75469 12%,
+			#912130 33%,
+			#d83b50 33%,
+			#6a0000 55%,
+			#d83b50 55%,
+			#d83b50 70%,
+			#860415 70%,
+			#d83b50 87%,
+			#f75469 87%
+		);
+		background-size: 50%;
+		background-clip: text;
+		font-weight: 900;
 	}
 
 	h2 {
@@ -211,5 +227,23 @@
 		> a > img {
 			@apply mx-auto;
 		}
+	}
+
+	.gradient-text {
+		color: transparent;
+		background: conic-gradient(
+			#d83b50 12%,
+			#f75469 12%,
+			#912130 33%,
+			#d83b50 33%,
+			#000 55%,
+			#d83b50 55%,
+			#d83b50 70%,
+			#860415 70%,
+			#d83b50 87%,
+			#f75469 87%
+		);
+		background-size: 50%;
+		background-clip: text;
 	}
 }
