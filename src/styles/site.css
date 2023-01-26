@@ -52,7 +52,7 @@
 	}
 
 	header {
-		@apply h-64;
+		@apply min-h-[14rem] mb-8;
 	}
 
 	main,
