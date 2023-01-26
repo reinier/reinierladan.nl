@@ -20,9 +20,9 @@ Thinking is as much a thing of the hands as it is of the mind.
  />
 </div>
 
-When I want to learn something, I usually try to work with the subject instead of thinking about the subject. I think better when I’m also creating. This learning method does not mean that I’m not thinking about the matter at hand, on the contrary. I’m thinking while also ‘doing’.
+When I want to learn something, I usually try to _work with_ the subject instead of _thinking about_ the subject. I think better when I’m also creating. This learning method does not mean that I’m not thinking about the matter at hand, on the contrary. I’m thinking by doing.
 
-A common phrase shared among writers is writing is thinking. Writing is not only the product of your thinking, but it’s also a form of thinking in itself. The act of writing forces you to shape your thoughts into something that can be clearly communicated to others and your future self.
+A common phrase shared among writers is **writing is thinking**. Writing is not only the product of your thinking, but it’s also a form of thinking in itself. The act of writing forces you to shape your thoughts into something that can be clearly communicated to others and your future self.
 
 The famous scientist Richard Feynman put it like this:
 

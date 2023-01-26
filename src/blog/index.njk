@@ -5,13 +5,24 @@ eleventyExcludeFromCollections: true
 ---
 
 <h1>Blog</h1>
-<p>A little bit empty at the moment but working on it!</p>
-<ul>
-    {%- for post in collections.bericht | reverse -%}
-        <li>
-            <a href="{{ post.url }}">{{ post.data.title }}</a>
-            &bull;
-            <em>{{ post.data.date | readablePostDate }}</em>
-        </li>
-    {%- endfor -%}
-</ul>
+<p>Soms schrijf ik hier iets persoonlijks of een inzicht dat mijn vak raakt. Veel vaker schrijf ik echter op
+    <a href="https://reinier.fyi">reinier.fyi</a>
+    waar ook
+    <a href="https://reinier.fyi/nieuwsbrief">mijn wekelijkse nieuwsbrief FYI</a>
+    uitrolt.</p>
+<p>Wil je weten wat me
+    <em>nu</em>
+    bezighoudt dan kun je m'n
+    <a href="https://carelesswhisper.nl/@reinier">Mastodon account @reinier</a>
+    in de gaten houden.
+    <h2>Van nieuw naar oud…</h2>
+    <ul>
+        {%- for post in collections.bericht | reverse -%}
+            <li>
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+                &bull;
+                <em>{{ post.data.date | readablePostDate }}</em>
+            </li>
+        {%- endfor -%}
+    </ul>
+</p>

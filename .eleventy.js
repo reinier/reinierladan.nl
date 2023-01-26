@@ -1,5 +1,6 @@
 const fs = require("fs");
 const htmlmin = require("html-minifier");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { DateTime } = require("luxon");
 
@@ -32,6 +33,9 @@ module.exports = function (eleventyConfig) {
  			zone: "Europe/Amsterdam"
  		}).setLocale('en').toISODate();
  	});
+
+	// RSS feeds
+	eleventyConfig.addPlugin(pluginRss);
 
 	var pathPrefix = "";
 	if (process.env.GITHUB_REPOSITORY) {

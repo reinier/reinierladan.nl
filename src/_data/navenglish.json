@@ -1,5 +1,10 @@
 [
 	{
+		"id": "home",
+		"title": "Home",
+		"url": "/en/"
+	},
+	{
 		"id": "freelance",
 		"title": "Freelance",
 		"url": "/en/freelance/"

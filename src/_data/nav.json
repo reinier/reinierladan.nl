@@ -1,13 +1,13 @@
 [
 	{
+		"id": "home",
+		"title": "Home",
+		"url": "/"
+	},
+	{
 		"id": "freelance",
 		"title": "Freelance",
 		"url": "/freelance/"
-	},
-	{
-		"id": "nieuwsbrief",
-		"title": "Nieuwsbrief",
-		"url": "/nieuwsbrief/"
 	},
 	{
 		"id": "blog",
