@@ -4,8 +4,6 @@ title: Freelance product manager Reinier Ladan
 currentNav: freelance
 ---
 
-<p class="text-center mb-12">🇬🇧 This page is also <a href="/en/freelance">available to read in English</a>.</p>
-
 <div class="img-content-rounded">
 <img
  src="/images/reinier-profile-2019.jpg"
