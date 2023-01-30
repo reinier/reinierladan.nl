@@ -35,7 +35,6 @@
 
 	body {
 		@apply font-publicsans;
-
 		background: #fff url("/images/bg-reinierladan-white.svg") no-repeat
 			center -230px/1440px 588px;
 
@@ -45,6 +44,9 @@
 		-webkit-font-feature-settings: "kern";
 		font-feature-settings: "kern";
 		font-kerning: normal;
+
+		overflow-x: hidden;
+		width: 100%;
 	}
 
 	p {
