@@ -16,7 +16,7 @@ De zine is sinds 2022 gratis te downloaden.
 - [Download de versie om digitaal te lezen](/downloads/Zine-Heldere-Instructies-v1-2-202006301616.pdf)
 - [Download de versie om te printen](/downloads/Zine-Heldere-Instructies-v1-2-202006301616-print-versie.pdf)
 
-### Wat mensen over de zine en Minder Maar Beter zeggen
+### Wat mensen over de zine en zeggen
 
 > “Reinier geeft me vaak de juiste tips om meer uit mijn dag te halen. Juist nu.”   
 — **Alexander Klöpping, ondernemer en televisiepresentator**
