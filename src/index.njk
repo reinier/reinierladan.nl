@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: true
 ---
 
 <div class="img-content-rounded">
-    <img src="/images/reinier-profile-2019.jpg" alt="profile picture of Reinier Ladan"/>
+    <img src="/images/reinier-profile-2019.jpg" width="256" height="256" alt="profile picture of Reinier Ladan"/>
 </div>
 <h1 class="text-center gradient-text">Hi, Reinier hier.</h1>
 <div class="site-intro">
@@ -17,33 +17,20 @@ eleventyExcludeFromCollections: true
         <a href="/en">available in English</a>.
     </p>
 </div>
-<div class="pt-2 pb-10">
+<div class="py-8">
     <p>
         <a href="/freelance" class="font-bold text-3xl">/freelance</a>
         <br/> Lees meer over mijn freelance werkzaamheden als product manager en design consultant.
     </p>
 </div>
-<div class="pt-2">
+<div class="pb-8">
     <p>
         <a href="/blog" class="font-bold text-3xl">/blog</a>
         <br/>Soms schrijf ik hier iets persoonlijks of een inzicht dat mijn vak raakt.<br/>
-        <strong>Laatste berichten op mijn blog:</strong>
     </p>
 </div>
-<ul class="pb-10">
-    {%- for post in collections.bericht | reverse -%}
-        <li>
-            <a href="{{ post.url }}">{{ post.data.title }}</a>
-        </li>
-    {%- endfor -%}
-</ul>
-<div class="pt-2 pb-10">
+<div class="pb-8">
     <p>
         <a href="/contact" class="font-bold text-3xl">/contact</a>
         <br/>Zoek je contact met me? Vragen, voorstellen, opmerkingen, feedback, alles is welkom.</p>
 </div>
-{# <div class="pt-2">
-    <p>
-        <a href="https://reinier.fyi" class="font-bold text-3xl">reinier.fyi</a>
-        <br/>De FYI nieuwsbrief is over het algemeen een wekelijks allegaartje van alle dingen die ik online heb gedeelt en extra interessante dingen die ik ben tegengekomen op het grote openbare netwerk dat we Het Internet noemen.</p>
-</div> #}
