@@ -34,16 +34,16 @@ https://www.ladan.email/* https://reinierladan.nl/ 301!
 https://restacks.com/* https://reinierladan.nl/ 301!
 https://www.restacks.com/* https://reinierladan.nl/ 301!
 
-# Other stuff
+# Redirect to zine page
+# https://mindermaarbeter.nl/zine-heldere-instructies-van-jezelf-aan-jezelf/ /zine/ 301!
+# https://mindermaarbeter.nl/heldere-instructies-zine-download/ /zine/ 301!
+# https://mindermaarbeter.nl/heldere-instructies-pdfs-8098bbsq2431mmb28sa/ /zine/ 301!
+# https://mindermaarbeter.nl/zine-links/ /zine/ 301!
+https://mindermaarbeter.nl/* /zine/ 301!
+https://www.mindermaarbeter.nl/* /zine/ 301!
 
+# Other stuff
 /feed /feed.xml 301
 
 # Ultimate fallback
 /* /404/index.html 404
-
-# Redirect to zine page
-
-# <https://mindermaarbeter.nl/zine-heldere-instructies-van-jezelf-aan-jezelf/>
-# <https://mindermaarbeter.nl/heldere-instructies-zine-download/>
-# <https://mindermaarbeter.nl/heldere-instructies-pdfs-8098bbsq2431mmb28sa/>
-# <https://mindermaarbeter.nl/zine-links/>
