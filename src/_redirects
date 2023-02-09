@@ -39,8 +39,8 @@ https://www.restacks.com/* https://reinierladan.nl/ 301!
 # https://mindermaarbeter.nl/heldere-instructies-zine-download/ /zine/ 301!
 # https://mindermaarbeter.nl/heldere-instructies-pdfs-8098bbsq2431mmb28sa/ /zine/ 301!
 # https://mindermaarbeter.nl/zine-links/ /zine/ 301!
-https://mindermaarbeter.nl/* /zine/ 301!
-https://www.mindermaarbeter.nl/* /zine/ 301!
+https://mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
+https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 
 # Other stuff
 /feed /feed.xml 301
