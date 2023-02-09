@@ -29,3 +29,7 @@ De zine is sinds 2022 gratis te downloaden.
 
 > “Mijn taken en losse todo’s zwerven op teveel plekken rond. Reinier’s zine geeft me heldere instructies om alles weer strak op orde te krijgen. Na 10 minuten ben je actief bezig!”   
 — **Frank Meeuwsen, content strateeg**
+
+### Meer productiviteit en apptips?
+
+[Volg mijn nieuwsbrief FYI](http://reinier.fyi) om op de hoogte te blijven van productiviteitstips, apptips en andere zaken.
