@@ -16,19 +16,21 @@ currentNav: freelance
 
 De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
-Sinds 2016 heb ik me volledig gericht op product management. Ik sta voor je klaar in de rol van product owner, product manager, design consultant of design manager. Er zijn veel rollen die hierop lijken of veel overeenkomsten ermee hebben. Schroom niet om contact met me hierover op te nemen als je denkt dat de rol die je beschikbaar hebt een match voor me is.
+Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
 
-Naast veel algemene vaardigheden die van pas komen bij het zijn van een product manager, heb ik ook wat specialiteiten: accessibility, design systems, user experience, user research, slim werken, duidelijk communiceren en kennis en ervaring met web- en app development.
+![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
+
+Sinds 2016 heb ik me volledig gericht op product management. Ik sta voor je klaar in de rol van product owner, product manager, design consultant of design manager. Er zijn veel rollen die hierop lijken of er overeenkomsten mee hebben. Schroom niet om contact met me op te nemen hierover als je denkt dat de rol die je beschikbaar hebt een match voor me is.
+
+Naast veel algemene vaardigheden die van pas komen bij het zijn van een product manager, heb ik ook wat specialiteiten: toegankelijkheid van software, design systems, user experience, user research, slim werken, duidelijk communiceren en kennis en ervaring met web- en app development.
 
 Door mijn unieke ervaring als developer, designer én manager help ik het product team en de stakeholders tot bruikbare en realistische oplossingen te komen. Daarnaast ben ik extreem georganiseerd, duik ik graag in bedrijfsspecifieke materie en hou ik mezelf dagelijks up-to-date over mijn vakgebied.
 
 👔 [Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan) en ik sta altijd open voor nieuwe connecties.
 
-Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
+🗺️ Thuis in Zaandam heb ik een prima werkplek waar ik remote kan werken, maar als de reistijd het toelaat werk ik met liefde (gedeeltelijk) op de lokatie van de opdrachtgever.
 
-![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
-
-### Een paar highlights uit mijn professionele carrière
+### Een handvol projecten die ik heb uitgevoerd
 
 - 📰 [Van developer naar designer bij de NOS](/freelance/projecten/nos)
 

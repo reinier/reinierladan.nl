@@ -8,4 +8,12 @@
     <link rel="alternate" type="application/rss+xml" href="/feed-en.xml" title="Blog Reinier Ladan (EN)"/>
     <link rel="icon" href="/images/cropped-RL-Icon-32x32.png" sizes="32x32"/>
     <link href="https://carelesswhisper.nl/@reinier" rel="me"/>
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:url" content="{{ metadata.url }}{{ page.url }}"/>
+    {% if description %}
+        <meta property="og:description" content="{{ description }}"/>
+    {% endif %}
+    {% if socialImage %}
+        <meta property="og:image" content="{{ metadata.url }}{{ socialImage }}"/>
+    {% endif %}
 </head>
