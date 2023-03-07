@@ -7,7 +7,7 @@ tags:
   - bericht
   - beschikbaar
   - freelance
-socialImage: /images/beschikbaar.png
+socialImage: /images/beschikbaar-social.jpg
 ---
 
 # {{title}}
