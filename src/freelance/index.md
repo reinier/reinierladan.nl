@@ -2,6 +2,8 @@
 layout: layouts/base.njk
 title: Freelance product manager Reinier Ladan
 currentNav: freelance
+socialImage: /images/beschikbaar-social.jpg
+description: De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 ---
 
 <div class="img-content-rounded">
