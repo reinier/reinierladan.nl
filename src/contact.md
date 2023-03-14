@@ -13,9 +13,10 @@ Contact via e-mail heeft mijn voorkeur, zo blijf ik baas over mijn eigen concent
 
 ## Informatie over Digital Energy BV
 
-Digital Energy B.V. is de holding voor mijn professionele werkzaamheden die ik uitvoer als freelancer.
+Digital Energy B.V. is de holding voor mijn professionele werkzaamheden die ik uitvoer als freelancer ([lees over mijn freelance bezigheden](/freelance)).
 
 Administratieve informatie over Digital Energy BV:
+
 - BTW nummer: 811020496B01,
 - KvK nummer: 24310329,
 (deze informatie staat ook altijd op de factuur vermeld).
