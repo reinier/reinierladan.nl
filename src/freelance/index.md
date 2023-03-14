@@ -18,7 +18,7 @@ description: De afgelopen jaren heb ik dat als freelancer onder andere gedaan vo
 
 De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
-Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
+Een greep uit de opdrachtgevers waar ik freelance voor heb gewerkt:
 
 ![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
 
