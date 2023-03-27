@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-en.njk
 title: Zine Heldere Instructies
 eleventyExcludeFromCollections: true
 ---
