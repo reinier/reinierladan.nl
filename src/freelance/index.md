@@ -22,11 +22,11 @@ As a seasoned professional in the media and tech industry, I have over two decad
 
 I am based in the Amsterdam area of the Netherlands, and I speak Dutch (native language), English, and Jira. I work in the GMT+1 time zone and have my own dedicated office space at home.
 
-In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working** such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
+In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working**, such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
 
-**My expertise in both UX design and software engineering allows me to assist product teams in exploring viable solutions.** My passion lies in diving into the details of problems and objectives, figuring out why they exist, and identifying which ones should be prioritised to provide the most value for the business and the customer, user, and client.
+**My expertise in both UX design and software engineering allows me to assist product teams in exploring viable solutions**. My passion lies in diving into the details of problems and objectives, figuring out why they exist, and identifying which ones should be prioritised to provide the most value for the business and the customer, user, and client.
 
-Throughout my career, I have had the pleasure of working with many notable companies such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), and others. I have assisted them in creating and improving their digital strategies, products, and services.
+Throughout my career, I’ve had the pleasure of working with many notable companies, such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
 ---
 
