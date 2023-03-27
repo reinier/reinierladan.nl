@@ -1,21 +1,16 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-en.njk
 title: Reinier Ladan Blog
 eleventyExcludeFromCollections: true
 ---
 
 <h1>Blog</h1>
-<p>Soms schrijf ik hier iets persoonlijks of een inzicht dat mijn vak raakt.</p>
-<p>Veel vaker schrijf ik echter op
-    <a href="https://reinier.fyi">reinier.fyi</a>
-    waar ook mijn wekelijkse nieuwsbrief 'FYI' uitrolt.</p>
-<h2>Van nieuw naar oud…</h2>
 <ul>
-    {%- for post in collections.bericht | reverse -%}
+    {%- for post in collections.blogpost | reverse -%}
         <li>
             <a href="{{ post.url }}">{{ post.data.title }}</a>
             &bull;
-            <em>{{ post.data.date | readablePostDate }}</em>
+            <em>{{ post.data.date | readablePostDateEN }}</em>
         </li>
     {%- endfor -%}
 </ul>

@@ -38,6 +38,25 @@ https://www.restacks.com/* https://reinierladan.nl/ 301!
 https://mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 
+# Old links from when site was also available in Dutch
+/blog/2014/mcdonalds-theorie/ /blog/2023/mcdonalds-theory/ 301!
+/blog/2023/beschikbaar-voor-freelance-werk/ /blog/2023/available-for-work/ 301!
+/blog/2023/feedback-scriptnotes/ /blog/ 301!
+/en/blog/ /blog/ 301!
+/en/blog/2023/available-for-work/ /blog/2023/available-for-work/ 301!
+/en/blog/2023/making-is-thinking/ /blog/2023/making-is-thinking/ 301!
+/en/blog/2023/on-reading-scifi-fantasy/ /blog/2023/on-reading-scifi-fantasy/ 301!
+/en/contact/ /contact/ 301!
+/en/freelance/ /freelance/ 301!
+/en/freelance/projects/backbase /freelance/projects/backbase 301!
+/en/freelance/projects/coronamelder /freelance/projects/coronamelder 301!
+/en/freelance/projects/nos /freelance/projects/nos 301!
+/en/freelance/projects/schiphol /freelance/projects/schiphol 301!
+/freelance/projecten/nlziet /freelance/ 301!
+/freelance/projecten/npo /freelance/ 301!
+/feed-en.xml /feed.xml 301!
+/en/* /* 301!
+
 # Other stuff
 /feed /feed.xml 301
 

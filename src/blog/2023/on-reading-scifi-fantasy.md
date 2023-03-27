@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-en.njk
 title: On reading sci-fi and fantasy books
 description: Nine years ago, I decided that I needed a hobby to wind down after a day of cracking my brain at work. It had to be something engaging, but it couldn’t feel like work. The perfect solution for me was to start reading sci-fi and fantasy books. Good sci-fi/fantasy books are engaging and — unlike non-fiction — they feel like entertainment.
 date: 2023-01-20
@@ -38,7 +38,9 @@ Some of my favorite books from the last six years:
  <li><a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings">The Way of Kings by Brandon Sanderson</a>. I turned into a Brandon Sanderson fanboy these last six years.</li>
 </ul>
 
-### Bonus books that are just as awesome
+### Can't let these books go unmentioned
+
+(last update: 27-03-2023)
 
 - [The Rook by Daniel O&#8217;Malley](https://www.goodreads.com/book/show/10836728-the-rook)
 - [Old Man&#8217;s War by John Scalzi](https://www.goodreads.com/book/show/51964.Old_Man_s_War)
@@ -48,3 +50,5 @@ Some of my favorite books from the last six years:
 - [The Relentless Moon by Mary Robinette Kowal](https://www.goodreads.com/book/show/52381417-the-relentless-moon)
 - [The Space Between Worlds by Micaiah Johnson](https://www.goodreads.com/book/show/43301353-the-space-between-worlds)
 - [Black Sun (Between Earth and Sky, #1) by Rebecca Roanhorse](https://www.goodreads.com/book/show/53543063-black-sun)
+- [Jade City (The Green Bone Saga, #1) by Fonda Lee](https://www.goodreads.com/book/show/43587154-jade-city)
+- [The Spare Man by Mary Robinette Kowal](https://www.goodreads.com/book/show/41892799-the-spare-man)

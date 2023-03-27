@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-en.njk
 title: Making is thinking
 description: When I want to learn something, I usually try to work with the subject instead of thinking about the subject. I think better when I’m also creating. This learning method does not mean that I’m not thinking about the matter at hand, on the contrary. I’m thinking while also ‘doing’.
 date: 2023-01-22

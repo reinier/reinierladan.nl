@@ -33,14 +33,6 @@
     "posthtml" "^0.16.6"
     "posthtml-urls" "1.0.0"
 
-"@11ty/eleventy-upgrade-help@^2.0.5":
-  "integrity" "sha512-sIH/ObNN2QDyd9Tqzb4N5gKuhgmq7VDO5o/GNpD+jMwCmMFumUiCoNcpp1tlRonuNp7IAVrXIg6SYDp6aqvQUw=="
-  "resolved" "https://registry.npmjs.org/@11ty/eleventy-upgrade-help/-/eleventy-upgrade-help-2.0.5.tgz"
-  "version" "2.0.5"
-  dependencies:
-    "chalk" "^4.1.1"
-    "semver" "^7.3.5"
-
 "@11ty/eleventy-utils@^1.0.1":
   "integrity" "sha512-HPpCTz4PzudcQU+i+x6GSNHVqgnvRhnVYg5dLKaAoRWLN966odAGsBxKSyhF8i1MdlOPtsytYb2AGWP7jISC5w=="
   "resolved" "https://registry.npmjs.org/@11ty/eleventy-utils/-/eleventy-utils-1.0.1.tgz"
@@ -595,7 +587,7 @@
     "escape-string-regexp" "^1.0.5"
     "supports-color" "^5.3.0"
 
-"chalk@^4.0.2", "chalk@^4.1.0", "chalk@^4.1.1":
+"chalk@^4.0.2", "chalk@^4.1.0":
   "integrity" "sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA=="
   "resolved" "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
   "version" "4.1.2"
@@ -1106,12 +1098,7 @@
   "resolved" "https://registry.npmjs.org/entities/-/entities-2.1.0.tgz"
   "version" "2.1.0"
 
-"entities@^3.0.1":
-  "integrity" "sha512-WiyBqoomrwMdFG1e0kqvASYfnlb0lp8M5o5Fw2OFq1hNZxxcNk8Ik0Xm7LxzBhuidnZB/UtBqVCgUz3kBOP51Q=="
-  "resolved" "https://registry.npmjs.org/entities/-/entities-3.0.1.tgz"
-  "version" "3.0.1"
-
-"entities@~3.0.1":
+"entities@^3.0.1", "entities@~3.0.1":
   "integrity" "sha512-WiyBqoomrwMdFG1e0kqvASYfnlb0lp8M5o5Fw2OFq1hNZxxcNk8Ik0Xm7LxzBhuidnZB/UtBqVCgUz3kBOP51Q=="
   "resolved" "https://registry.npmjs.org/entities/-/entities-3.0.1.tgz"
   "version" "3.0.1"
@@ -3253,7 +3240,7 @@
   "resolved" "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz"
   "version" "6.3.0"
 
-"semver@^7.3.5", "semver@^7.3.8":
+"semver@^7.3.8":
   "integrity" "sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A=="
   "resolved" "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
   "version" "7.3.8"
