@@ -1,59 +1,53 @@
 ---
-layout: layouts/base.njk
+layout: layouts/base-en.njk
 title: Freelance product manager Reinier Ladan
 currentNav: freelance
-socialImage: /images/beschikbaar-social.jpg
-description: De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 ---
 
 <div class="img-content-rounded">
 <img
  src="/images/reinier-profile-2019.jpg"
- alt="profielfoto van Reinier Ladan"
+ alt="profile picture of Reinier Ladan"
  />
  </div>
- <h1 class="homepage-headline text-center">Hi! Ik heet Reinier Ladan en ik ben een…</h1>
+ <h1 class="homepage-headline text-center">Hi! I'm Reinier Ladan and I'm a…</h1>
 
-## Freelance (remote) product owner en design consultant
+## Freelance (remote) product manager and design consultant
 
-De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol, Liberty Global, Backbase en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
+As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. I am confident that my extensive experience and proven track record of success make me a valuable addition to any tech and design team looking to bring their product vision to life.
 
-Een greep uit de opdrachtgevers waar ik freelance voor heb gewerkt:
+- 👋 Available for **freelance product management projects**
+- 🗺️ Open to both **on-site and remote work**
+- 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
 
-![Logo's van enkele opdrachtgevers](/images/client-overview-2020.png)
+I am based in the Amsterdam area of the Netherlands, and I speak Dutch (native language), English, and Jira. I work in the GMT+1 time zone and have my own dedicated office space at home.
 
-Sinds 2016 heb ik me volledig gericht op product management. Ik sta voor je klaar in de rol van product owner, product manager, design consultant of design manager. Er zijn veel rollen die hierop lijken of er overeenkomsten mee hebben. Schroom niet om contact met me op te nemen hierover als je denkt dat de rol die je beschikbaar hebt een match voor me is.
+In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working** such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
 
-Naast veel algemene vaardigheden die van pas komen bij het zijn van een product manager, heb ik ook wat specialiteiten: toegankelijkheid van software, design systems, user experience, user research, slim werken, duidelijk communiceren en kennis en ervaring met web- en app development.
+**My expertise in both UX design and software engineering allows me to assist product teams in exploring viable solutions.** My passion lies in diving into the details of problems and objectives, figuring out why they exist, and identifying which ones should be prioritised to provide the most value for the business and the customer, user, and client.
 
-Door mijn unieke ervaring als developer, designer én manager help ik het product team en de stakeholders tot bruikbare en realistische oplossingen te komen. Daarnaast ben ik extreem georganiseerd, duik ik graag in bedrijfsspecifieke materie en hou ik mezelf dagelijks up-to-date over mijn vakgebied.
+Throughout my career, I have had the pleasure of working with many notable companies such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
-👔 [Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan) en ik sta altijd open voor nieuwe connecties.
+---
 
-🗺️ Thuis in Zaandam heb ik een prima werkplek waar ik remote kan werken, maar als de reistijd het toelaat werk ik met liefde (gedeeltelijk) op de lokatie van de opdrachtgever.
+![Logos of clients I've worked for](/images/client-overview-2020.png)
 
-### Een handvol projecten die ik heb uitgevoerd
+### Some highlights among my many projects
 
-- 📰 [Van developer naar designer bij de NOS](/freelance/projecten/nos)
+- [NOS websites and apps](/en/freelance/projects/nos)
+- [Amsterdam Airport Schiphol](/en/freelance/projects/schiphol)
+- [Backbase Design System](/en/freelance/projects/backbase)
+- [CoronaMelder](/en/freelance/projects/coronamelder) (Dutch COVID exposure notificaton app)
 
-- 📡 [Alles samen onder NPO.nl](/freelance/projecten/npo)
+### Timeline of work experience
 
-- 📺 [Alle Nederlandse zenders op NLZiet](/freelance/projecten/nlziet)
-
-- 🛫 [Van designer naar product manager bij Schiphol](/freelance/projecten/schiphol)
-
-- 🏦 [Scale-up fin-tech bij Backbase](/freelance/projecten/backbase)
-
-- 🦠 [Mensen waarschuwen over Corona met CoronaMelder](/freelance/projecten/coronamelder)
-
-### Tijdlijn van werkervaring
-
-In het onderstaande schema krijg je een indruk van mijn professionele carrière.
-
-<div class="break-out py-10 lg:px-8 text-center">
+<div class="break-out py-10 lg:px-8">
  <a href="/images/Werk-ervaring-timeline-2022.png"><img src="/images/Werk-ervaring-timeline-2022-1980x537.png" alt="Timeline of Reinier Ladan's work experience"></a>
 </div>
 
-### Meer weten?
+### Contact me
 
-Meer weten of gewoon even peilen of ik beschikbaar ben? [Neem contact met me op](/contact).
+Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or Whatsapp/iMessage.
+
+- Email: reinier@ladan.email
+- Call, WhatsApp, iMessage, Telegram: +31624872725

@@ -1,42 +1,60 @@
 # Redirect domain aliases to primary domain
 
 ## reinierladan.com
-https://reinierladan.com/* https://reinierladan.nl/en/:splat 301!
+https://reinierladan.com/*https://reinierladan.nl/en/:splat 301!
 https://www.reinierladan.com/* https://reinierladan.nl/en/:splat 301!
 
 ## sinds82.nl
-https://sinds82.nl/* https://reinierladan.nl/ 301!
+https://sinds82.nl/*https://reinierladan.nl/ 301!
 https://www.sinds82.nl/* https://reinierladan.nl/ 301!
 
 ## rladan.nl
-https://rladan.nl/* https://reinierladan.nl/ 301!
+https://rladan.nl/*https://reinierladan.nl/ 301!
 https://www.rladan.nl/* https://reinierladan.nl/ 301!
 
 ## digitalenergy.nl
-https://digitalenergy.nl/* https://reinierladan.nl/contact 301!
+https://digitalenergy.nl/*https://reinierladan.nl/contact 301!
 https://www.digitalenergy.nl/* https://reinierladan.nl/contact 301!
 
 ## reinier.io
-https://reinier.io/* https://reinierladan.nl/ 301!
+https://reinier.io/*https://reinierladan.nl/ 301!
 https://www.reinier.io/* https://reinierladan.nl/ 301!
 
 ## e-mailbeleid
-https://emailbeleid.nl/* https://reinierladan.nl/ 301!
+https://emailbeleid.nl/*https://reinierladan.nl/ 301!
 https://www.emailbeleid.nl/* https://reinierladan.nl/ 301!
-https://e-mailbeleid.nl/* https://reinierladan.nl/ 301!
+https://e-mailbeleid.nl/*https://reinierladan.nl/ 301!
 https://www.e-mailbeleid.nl/* https://reinierladan.nl/ 301!
 
 ## ladan.email
-https://ladan.email/* https://reinierladan.nl/ 301!
+https://ladan.email/*https://reinierladan.nl/ 301!
 https://www.ladan.email/* https://reinierladan.nl/ 301!
 
 ## restacks.com
-https://restacks.com/* https://reinierladan.nl/ 301!
+https://restacks.com/*https://reinierladan.nl/ 301!
 https://www.restacks.com/* https://reinierladan.nl/ 301!
 
 # Redirect to zine page
-https://mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
+https://mindermaarbeter.nl/*https://reinierladan.nl/zine/ 301!
 https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
+
+# Old links from when site was also available in Dutch
+/blog/2014/mcdonalds-theorie/ /blog/2023/mcdonalds-theory/ 301!
+/blog/2023/beschikbaar-voor-freelance-werk/ /blog/2023/available-for-work/ 301!
+/blog/2023/feedback-scriptnotes/ /blog/ 301!
+/en/ / 301!
+/en/blog/ /blog/ 301!
+/en/blog/2023/available-for-work/ /blog/2023/available-for-work/ 301!
+/en/blog/2023/making-is-thinking/ /blog/2023/making-is-thinking/ 301!
+/en/blog/2023/on-reading-scifi-fantasy/ /blog/2023/on-reading-scifi-fantasy/ 301!
+/en/contact/ /contact/ 301!
+/en/freelance/ /freelance/ 301!
+/en/freelance/projects/backbase /freelance/projects/backbase 301!
+/en/freelance/projects/coronamelder /freelance/projects/coronamelder 301!
+/en/freelance/projects/nos /freelance/projects/nos 301!
+/en/freelance/projects/schiphol /freelance/projects/schiphol 301!
+/freelance/projecten/nlziet /freelance/ 301!
+/freelance/projecten/npo /freelance/ 301!
 
 # Other stuff
 /feed /feed.xml 301

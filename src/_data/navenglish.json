@@ -2,21 +2,21 @@
 	{
 		"id": "home",
 		"title": "Home",
-		"url": "/en/"
+		"url": "/"
 	},
 	{
 		"id": "freelance",
 		"title": "Freelance",
-		"url": "/en/freelance/"
+		"url": "/freelance/"
 	},
 	{
 		"id": "blog",
 		"title": "Blog",
-		"url": "/en/blog/"
+		"url": "/blog/"
 	},
 	{
 		"id": "contact",
 		"title": "Contact",
-		"url": "/en/contact/"
+		"url": "/contact/"
 	}
 ]
