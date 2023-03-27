@@ -14,25 +14,21 @@ currentNav: freelance
 
 ## Freelance (remote) product manager and design consultant
 
-I’ve been creating digital products by managing product teams, designing user interfaces, and building
-prototypes since the late 90s. As of 2016 I’ve focused all my time and energy on **product management and consulting
-product and design teams.**
+As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. I am confident that my extensive experience and proven track record of success make me a valuable addition to any tech and design team looking to bring their product vision to life.
 
-👔 [Feel free to connect on LinkedIn!](https://www.linkedin.com/in/reinierladan) I’m always open for new connections and opportunities.
+- 👋 Available for **freelance product management projects**
+- 🗺️ Open to both **on-site and remote work**
+- 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
 
-I’m available for freelance (remote) product management projects.
+I am based in the Amsterdam area of the Netherlands, and I speak Dutch (native language), English, and Jira. I work in the GMT+1 time zone and have my own dedicated office space at home.
 
-- On-site in and around Amsterdam, the Netherlands
-- Remote is no problem at all. I’m located in the GMT+1 time zone and I have my own dedicated office space at home.
-- I’m happy with my current freelance situation, but if you have the perfect fit for me and it’s a permanent position, don’t hesitate to contact me.
+In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working** such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
 
-I live just 5 km north of Amsterdam, in Zaandam. Famous for its windmills, cookies and mustard. I speak Dutch (native language), English and Jira.
+**My expertise in both UX design and software engineering allows me to assist product teams in exploring viable solutions.** My passion lies in diving into the details of problems and objectives, figuring out why they exist, and identifying which ones should be prioritised to provide the most value for the business and the customer, user, and client.
 
-The world is changing. Business, people, technology, everything is changing faster and faster. That’s why I focus on an agile way of working like Scrum or Kanban. To get stuff done in such an environment, you have to align with your team members and have a shared vision for your product and service. **It’s my job as a product owner/manager to get everybody on that same page.** This way we can solve the most critical problems and aim for the most valuable objectives.
+Throughout my career, I have had the pleasure of working with many notable companies such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
-**With my experience in both UX design and software engineering, I can help the product team explore viable solutions.** The thing that drives me the most is diving into the nitty-gritty details of problems and objectives, and figure out why they exist and what needs to be solved first to get the most value for the business and the customer, user and client.
-
-**I've had the pleasure to work with many great companies** and create some pretty awesome products. I helped Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch BBC News), NPO (the Dutch BBC), and many others, with creating and improving their digital strategy, products and services.
+---
 
 ![Logos of clients I've worked for](/images/client-overview-2020.png)
 
@@ -41,7 +37,7 @@ The world is changing. Business, people, technology, everything is changing fast
 - [NOS websites and apps](/en/freelance/projects/nos)
 - [Amsterdam Airport Schiphol](/en/freelance/projects/schiphol)
 - [Backbase Design System](/en/freelance/projects/backbase)
-- [CoronaMelder](/en/freelance/projects/coronamelder)
+- [CoronaMelder](/en/freelance/projects/coronamelder) (Dutch COVID exposure notificaton app)
 
 ### Timeline of work experience
 
