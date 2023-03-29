@@ -14,11 +14,11 @@ eleventyExcludeFromCollections: true
 
 As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. I am confident that my extensive experience and proven track record of success make me a valuable addition to any tech and design team looking to bring their product vision to life.
 
-- 👋 Available for **freelance product management projects**
+- 👋 Available for **freelance product management or design consultancy**
 - 🗺️ Open to both **on-site and remote work**
 - 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
 
-I am based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and have my own dedicated office space at home.
+I'm based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and have my own dedicated office space at home.
 
 In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working**, such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
 
@@ -32,7 +32,7 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 ### Some highlights among my many projects
 
-- 📰 [NOS websites and apps](/projects/nos)
+- 📰 [NOS (the Dutch equivalent of BBC News) websites and apps](/projects/nos)
 - 🛫 [Amsterdam Airport Schiphol](/projects/schiphol)
 - 🏦 [Backbase (fin-tech scale-up) Design System](/projects/backbase)
 - 🦠 [CoronaMelder](/projects/coronamelder) (Dutch COVID exposure notificaton app)
