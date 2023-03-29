@@ -47,13 +47,18 @@ https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 /en/blog/2023/making-is-thinking/ /blog/2023/making-is-thinking/ 301!
 /en/blog/2023/on-reading-scifi-fantasy/ /blog/2023/on-reading-scifi-fantasy/ 301!
 /en/contact/ /contact/ 301!
-/en/freelance/ /freelance/ 301!
-/en/freelance/projects/backbase /freelance/projects/backbase 301!
-/en/freelance/projects/coronamelder /freelance/projects/coronamelder 301!
-/en/freelance/projects/nos /freelance/projects/nos 301!
-/en/freelance/projects/schiphol /freelance/projects/schiphol 301!
-/freelance/projecten/nlziet /freelance/ 301!
-/freelance/projecten/npo /freelance/ 301!
+/en/freelance/ / 301!
+/freelance/ / 301!
+/en/freelance/projects/backbase /projects/backbase 301!
+/en/freelance/projects/coronamelder /projects/coronamelder 301!
+/en/freelance/projects/nos /projects/nos 301!
+/en/freelance/projects/schiphol /projects/schiphol 301!
+/freelance/projects/backbase /projects/backbase 301!
+/freelance/projects/coronamelder /projects/coronamelder 301!
+/freelance/projects/nos /projects/nos 301!
+/freelance/projects/schiphol /projects/schiphol 301!
+/freelance/projecten/nlziet / 301!
+/freelance/projecten/npo / 301!
 /feed-en.xml /feed.xml 301!
 /en/* /* 301!
 
