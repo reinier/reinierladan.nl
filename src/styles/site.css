@@ -94,7 +94,7 @@
 	}
 
 	h1 {
-		@apply text-4xl mb-4;
+		@apply text-4xl mb-12;
 		text-align: center;
 		color: #d83b50;
 		font-weight: 900;
@@ -117,6 +117,10 @@
 		color: #333332;
 		border-left: 4px solid #999;
 		font-style: italic;
+	}
+
+	hr {
+		margin: 3em 0;
 	}
 }
 

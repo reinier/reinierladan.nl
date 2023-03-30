@@ -8,15 +8,15 @@ eleventyExcludeFromCollections: true
 <div class="img-content-rounded">
     <img src="/images/reinier-profile-2019.jpg" width="256" height="256" alt="profile picture of Reinier Ladan"/>
 </div>
-<h1 class="text-center">Hi, I'm Reinier Ladan 👋</h1>
+<h1 class="text-center">Hi, I'm Reinier Ladan</h1>
 
-**I'm currently available as a freelance (remote) product manager, design consultant or design lead.**
-
-As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. I am confident that my extensive experience and proven track record of success make me a valuable addition to any tech and design team looking to bring their product vision to life.
-
-- 👋 Available for **freelance product management or design consultancy**
+- 👋 Available for **freelance product management, design consultancy, or design lead**
 - 🗺️ Open to both **on-site and remote work**
 - 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
+
+## About my professional life
+
+As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes.
 
 I'm based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and have my own dedicated office space at home.
 
@@ -26,16 +26,34 @@ In today's fast-paced world, everything is constantly evolving, including busine
 
 Throughout my career, I’ve had the pleasure of working with many notable companies, such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), DPG Media,The Dutch Ministry of Health, Welfare and Sport (VWS) and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
----
-
 ![Logos of clients I've worked for](/images/client-overview-2020.png)
+
+---
 
 ### Some highlights among my many projects
 
-- 📰 [NOS (the Dutch equivalent of BBC News) websites and apps](/projects/nos)
-- 🛫 [Amsterdam Airport Schiphol](/projects/schiphol)
-- 🏦 [Backbase (fin-tech scale-up) Design System](/projects/backbase)
+- 📰 [NOS websites and apps](/projects/nos) (the Dutch equivalent of BBC News)
+- 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) (World-wide highly rated airport)
+- 🏦 [Backbase Design System](/projects/backbase) (Fin-tech scale-up)
 - 🦠 [CoronaMelder](/projects/coronamelder) (Dutch COVID exposure notificaton app)
+
+### What people say about me
+
+> "Part structopath, part left-brainer, Reinier is the ideal Interaction Designer. Please don't call him a UX designer, because he's convinced that most experiences cannot be designed. And if you think that's a strong opinion, wait until you've hired him. Reinier comes preloaded with a lot of strong opinions, good design practices and a lot of common sense. Basically, Reinier is the embodiment of the user voice in any development process, determined to make stuff as simple and accessible as possible. Oh, and yes, he's a stand-up and fun guy to work with."
+
+– [David Linssen](https://www.linkedin.com/in/davidlinssen) (Partner in cooperation Kirk & Blackbeard)
+
+> "Reinier is a strong Product Owner with a design background, making him the ideal combination of competencies for this role. He possesses the essential domain knowledge, digital expertise, and background in interaction design. This enables him to better oversee and manage the product he is working on (in this case, the Schiphol App). Reinier always ensures that priorities are set based on the value for the end-user and the resulting business value for the organization. He is very goal-oriented and is able to work effectively with his team towards a jointly developed (product) vision."
+
+– [Geeske Kloostra](https://www.linkedin.com/in/geeskekloostra) (Portfolio manager during my time at Schiphol)
+
+> "Reinier is punctual, collaborative, and takes responsibility. He was a valuable member of the NOS New Media team for 3 years, where his ability to change stood out. His interaction design of the Second Screen for the 2010 World Cup football resulted in a Beeld en Geluid award in February 2011."
+
+– [Bas Hoedemakers](https://www.linkedin.com/in/bashoedemakers) (Project manager during my time at the NOS)
+
+More of these testimonials [on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
+
+---
 
 ### Timeline of work experience
 
