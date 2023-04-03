@@ -8,11 +8,16 @@ eleventyExcludeFromCollections: true
 <div class="img-content-rounded">
     <img src="/images/reinier-profile-2019.jpg" width="256" height="256" alt="profile picture of Reinier Ladan"/>
 </div>
-<h1 class="text-center">Hi, I'm Reinier Ladan</h1>
+<h1 class="text-center">Hi, I'm <span style="white-space: nowrap">Reinier Ladan</span>
+</h1>
+
+<div class="tldr">
 
 - 👋 Available for **freelance product management or senior design position**
 - 🗺️ Open to both **on-site and remote work**
 - 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
+
+</div>
 
 ## About my professional life
 

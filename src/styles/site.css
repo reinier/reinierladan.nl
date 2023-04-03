@@ -4,37 +4,27 @@
 
 @layer base {
 	@font-face {
-		font-family: "Public Sans webfont";
-		src: url("/fonts/PublicSans-Regular.woff2") format("woff2"),
-			url("/fonts/PublicSans-Regular.woff") format("woff"),
-			url("/fonts/PublicSans-Regular.ttf") format("truetype");
+		font-family: "Captain Edward";
+		src: url("/fonts/CaptainEdward-Regular.woff2") format("woff2"),
+			url("/fonts/CaptainEdward-Regular.woff") format("woff"),
+			url("/fonts/CaptainEdward-Regular.ttf") format("truetype");
 		font-weight: 400;
 		font-style: normal;
 		font-display: swap;
 	}
 
 	@font-face {
-		font-family: "Public Sans webfont";
-		src: url("/fonts/PublicSans-Bold.woff2") format("woff2"),
-			url("/fonts/PublicSans-Bold.woff") format("woff"),
-			url("/fonts/PublicSans-Bold.ttf") format("truetype");
+		font-family: "Captain Edward";
+		src: url("/fonts/CaptainEdward-Bold.woff2") format("woff2"),
+			url("/fonts/CaptainEdward-Bold.woff") format("woff"),
+			url("/fonts/CaptainEdward-Bold.ttf") format("truetype");
 		font-weight: 700;
 		font-style: normal;
 		font-display: swap;
 	}
 
-	@font-face {
-		font-family: "Public Sans webfont";
-		src: url("/fonts/PublicSans-Italic.woff2") format("woff2"),
-			url("/fonts/PublicSans-Italic.woff") format("woff"),
-			url("/fonts/PublicSans-Italic.ttf") format("truetype");
-		font-weight: 400;
-		font-style: italic;
-		font-display: swap;
-	}
-
 	body {
-		@apply font-publicsans;
+		@apply font-reinier;
 		background: #fff url("/images/bg-reinierladan-white.svg") no-repeat
 			center -230px/1440px 588px;
 
@@ -90,17 +80,20 @@
 
 	h1,
 	h3 {
+		@apply font-pirate;
 		@apply font-bold;
 	}
 
 	h1 {
-		@apply text-4xl mb-12;
+		@apply text-4xl mb-12 p-4;
 		text-align: center;
-		color: #d83b50;
+		color: #fff;
 		font-weight: 900;
+		background-color: #d83b50;
 	}
 
 	h2 {
+		@apply font-pirate;
 		@apply text-3xl my-8 font-bold;
 	}
 
@@ -168,17 +161,6 @@
 	}
 
 	/* END NAV COMPONENT */
-
-	.homepage-headline {
-		@apply text-lg;
-	}
-	.site-intro {
-		@apply mb-16;
-	}
-
-	.site-intro p {
-		@apply text-2xl font-light;
-	}
 
 	.img-content-rounded {
 		@apply flex flex-wrap justify-center pb-8;
