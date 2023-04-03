@@ -55,10 +55,8 @@ More of these testimonials [on my LinkedIn profile](https://www.linkedin.com/in/
 
 ---
 
-### Timeline of work experience
-
 <div class="break-out py-10 lg:px-8">
- <a href="/images/Werk-ervaring-timeline-2022.png"><img src="/images/Werk-ervaring-timeline-2022-1980x537.png" alt="Timeline of Reinier Ladan's work experience"></a>
+ <a href="/images/Work-Experience.svg"><img src="/images/Work-Experience.svg" alt="Timeline of Reinier Ladan's work experience" /></a>
 </div>
 
 ### Contact me
