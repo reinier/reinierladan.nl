@@ -10,19 +10,19 @@ eleventyExcludeFromCollections: true
 </div>
 <h1 class="text-center">Hi, I'm Reinier Ladan</h1>
 
-- 👋 Available for **freelance product management, design consultancy, or design lead**
+- 👋 Available for **freelance product management or senior design position**
 - 🗺️ Open to both **on-site and remote work**
 - 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
 
 ## About my professional life
 
-As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes.
+As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. 
 
 I'm based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and have my own dedicated office space at home.
 
-In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working**, such as Scrum or Kanban. As a product owner/manager, my responsibility is to align team members, stakeholders and business goals and have a shared vision for the product and service. This ensures that the team can solve critical problems and aim for the most valuable objectives.
+In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working**, such as [Scrum](https://scrumguides.org/scrum-guide.html), [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) or [Shape Up](https://basecamp.com/shapeup). 
 
-**My expertise in both UX design and software engineering allows me to assist product teams in exploring viable solutions**. My passion lies in diving into the details of problems and objectives, figuring out why they exist, and identifying which ones should be prioritised to provide the most value for the business, the customer, the client, future generations, our climate, you name it.
+**My expertise in both UX design and software engineering allows me to align product teams in exploring viable solutions**. My passion lies in diving into the details of goals and objectives, figuring out why they exist, identifying which ones should be prioritised and how to solve them. This ensures the most value for the business, the customer, the client, future generations, our climate, you name it.
 
 Throughout my career, I’ve had the pleasure of working with many notable companies, such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), DPG Media,The Dutch Ministry of Health, Welfare and Sport (VWS) and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
