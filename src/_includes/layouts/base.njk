@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en">
     {% include '../head.njk' %}
-    {% include '../header-en.njk' %}
+    {% include '../header.njk' %}
     <body>
         <main>
             {{ content | safe }}
         </main>
         <!-- Current page: {{ page.url | url }} -->
-        {% include '../footer-en.njk' %}
+        {% include '../footer.njk' %}
     </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: McDonald’s Theory
 description: Get a bunch of people together and let them get creative. It doesn't always lead to useful results. But if you give them the right input, you'll get much better outcomes.
 date: 2023-03-27

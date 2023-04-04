@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: Schiphol app
 ---
 

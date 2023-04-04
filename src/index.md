@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: Freelance product manager and design lead Reinier Ladan
 description: Remote product management and consulting for product and design teams
 eleventyExcludeFromCollections: true

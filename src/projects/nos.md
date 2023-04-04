@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: NOS websites and apps
 ---
 
