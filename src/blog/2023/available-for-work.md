@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-en.njk
+layout: layouts/base.njk
 title: Time for a new freelance project!
 description: Christmas is over, time to get started again
 date: 2023-03-07
