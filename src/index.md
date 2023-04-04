@@ -5,10 +5,10 @@ description: Remote product management and consulting for product and design tea
 eleventyExcludeFromCollections: true
 ---
 
-<div class="img-content-rounded">
+<div class="img-content-rounded home-profile-image">
     <img src="/images/reinier-profile-2019.jpg" width="256" height="256" alt="profile picture of Reinier Ladan"/>
 </div>
-<h1 class="text-center">Hi, I'm <span style="white-space: nowrap">Reinier Ladan</span>
+<h1 class="text-center home-title">Hi, I'm <span style="white-space: nowrap">Reinier Ladan</span>
 </h1>
 
 <div class="tldr">
@@ -37,10 +37,14 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 ### Some highlights among my many projects
 
-- 📰 [NOS websites and apps](/projects/nos) (the Dutch equivalent of BBC News)
-- 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) (World-wide highly rated airport)
-- 🏦 [Backbase Design System](/projects/backbase) (Fin-tech scale-up)
-- 🦠 [CoronaMelder](/projects/coronamelder) (Dutch COVID exposure notificaton app)
+<div class="project-list">
+
+- 📰 [NOS websites and apps](/projects/nos) _(the Dutch equivalent of BBC News)_ <span class="lb-design">design</span>
+- 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) _(World-wide highly rated airport)_ <span class="lb-design">design</span> <span class="lb-product">product</span>
+- 🏦 [Backbase Design System](/projects/backbase) _(Fin-tech scale-up)_ <span class="lb-product">product</span>
+- 🦠 [CoronaMelder](/projects/coronamelder) _(Dutch COVID exposure notificaton app)_ <span class="lb-product">product</span>
+
+</div>
 
 ### What people say about me
 

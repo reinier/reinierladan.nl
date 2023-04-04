@@ -28,4 +28,4 @@ Within four months of getting the team together, we build the first version of t
 
 After a year and a half of running the Schiphol app business, I managed three other product teams within Schiphol and learned a ton about getting to know a group of people that I did not select myself.
 
-**During my time at Schiphol, I transitioned from a designer who could manage himself to a full-time product manager.**
+**During my time at Schiphol, I transitioned from a product designer to a design focussed product manager.**

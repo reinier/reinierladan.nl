@@ -43,10 +43,6 @@
 		@apply mb-4;
 	}
 
-	header {
-		margin-bottom: 9rem; 
-	}
-
 	main,
 	footer {
 		@apply container mx-auto px-8 max-w-prose;
@@ -85,11 +81,15 @@
 	}
 
 	h1 {
-		@apply text-4xl mb-12 p-4;
+		@apply text-4xl mb-12 p-4 mt-40;
 		text-align: center;
 		color: #fff;
 		font-weight: 900;
 		background-color: #d83b50;
+	}
+	
+	h1.home-title {
+		@apply mt-4;
 	}
 
 	h2 {
@@ -143,6 +143,10 @@
 
 	/* END NAV COMPONENT */
 
+	.home-profile-image {
+		@apply mt-16;
+	}
+
 	.img-content-rounded {
 		@apply flex flex-wrap justify-center pb-8;
 	}
@@ -171,6 +175,33 @@
 			@apply w-72 shadow-lg;
 			display: inline-block;
 		}
+	}
+
+	.project-list ul li {
+		@apply mb-5;
+	}
+
+	.project-list ul li a {
+		@apply font-extrabold text-2xl;
+	}
+
+	.project-list ul li em:before { content: ' '; display: block; }
+
+	.lb-design,
+	.lb-product {
+		@apply text-xs mr-2 p-1 px-2;
+		text-transform: uppercase;
+		display: inline-block;
+		color: #fff;
+		border-radius: 4px;
+	}
+
+	.lb-design {
+		background-color: #FF8A00;
+	}
+
+	.lb-product {
+		background-color: #1400FF;
 	}
 }
 
