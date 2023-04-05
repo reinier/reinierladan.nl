@@ -40,7 +40,7 @@ Some of my favorite books from the last six years:
 
 ### Can't let these books go unmentioned
 
-(last update: 27-03-2023)
+(last update: 05-04-2023)
 
 - [The Rook by Daniel O&#8217;Malley](https://www.goodreads.com/book/show/10836728-the-rook)
 - [Old Man&#8217;s War by John Scalzi](https://www.goodreads.com/book/show/51964.Old_Man_s_War)
@@ -52,3 +52,4 @@ Some of my favorite books from the last six years:
 - [Black Sun (Between Earth and Sky, #1) by Rebecca Roanhorse](https://www.goodreads.com/book/show/53543063-black-sun)
 - [Jade City (The Green Bone Saga, #1) by Fonda Lee](https://www.goodreads.com/book/show/43587154-jade-city)
 - [The Spare Man by Mary Robinette Kowal](https://www.goodreads.com/book/show/41892799-the-spare-man)
+- [Elder Race by Adrian Tchaikovsky](https://www.goodreads.com/book/show/50663055-elder-race)
