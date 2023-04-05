@@ -42,7 +42,7 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 - 📰 [NOS websites and apps](/projects/nos) _(the Dutch equivalent of BBC News)_ <span class="lb-design">design</span>
 - 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) _(World-wide highly rated airport)_ <span class="lb-design">design</span> <span class="lb-product">product</span>
 - 📺 [NPO streaming service](/projects/npo) _(Dutch TV service)_ <span class="lb-design">design</span>
-- 📺 [NLZiet app design](/projects/nlziet) _(Dutch TV app)_ <span class="lb-design">design</span>
+- 📱 [NLZiet app design](/projects/nlziet) _(Dutch TV app)_ <span class="lb-design">design</span>
 - 🏦 [Backbase Design System](/projects/backbase) _(Fin-tech scale-up)_ <span class="lb-product">product</span>
 - 🦠 [CoronaMelder](/projects/coronamelder) _(Dutch COVID exposure notificaton app)_ <span class="lb-product">product</span>
 
@@ -62,7 +62,7 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 – [Bas Hoedemakers](https://www.linkedin.com/in/bashoedemakers) (Project manager during my time at the NOS)
 
-More of these testimonials [on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
+💎 [More testimonials on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
 
 ---
 
