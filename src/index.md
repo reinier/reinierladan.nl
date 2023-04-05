@@ -39,12 +39,12 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 <div class="project-list">
 
-- 📰 [NOS websites and apps](/projects/nos) _(the Dutch equivalent of BBC News)_ <span class="lb-design">design</span>
+- 🦠 [CoronaMelder](/projects/coronamelder) _(Dutch COVID exposure notificaton app)_ <span class="lb-product">product</span>
 - 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) _(World-wide highly rated airport)_ <span class="lb-design">design</span> <span class="lb-product">product</span>
+- 📰 [NOS websites and apps](/projects/nos) _(the Dutch equivalent of BBC News)_ <span class="lb-design">design</span>
+- 🏦 [Backbase Design System](/projects/backbase) _(Fin-tech scale-up)_ <span class="lb-product">product</span>
 - 📺 [NPO streaming service](/projects/npo) _(Dutch TV service)_ <span class="lb-design">design</span>
 - 📱 [NLZiet app design](/projects/nlziet) _(Dutch TV app)_ <span class="lb-design">design</span>
-- 🏦 [Backbase Design System](/projects/backbase) _(Fin-tech scale-up)_ <span class="lb-product">product</span>
-- 🦠 [CoronaMelder](/projects/coronamelder) _(Dutch COVID exposure notificaton app)_ <span class="lb-product">product</span>
 
 </div>
 
