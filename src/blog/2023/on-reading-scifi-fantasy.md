@@ -50,6 +50,5 @@ Some of my favorite books from the last six years:
 - [The Relentless Moon by Mary Robinette Kowal](https://www.goodreads.com/book/show/52381417-the-relentless-moon)
 - [The Space Between Worlds by Micaiah Johnson](https://www.goodreads.com/book/show/43301353-the-space-between-worlds)
 - [Black Sun (Between Earth and Sky, #1) by Rebecca Roanhorse](https://www.goodreads.com/book/show/53543063-black-sun)
-- [Jade City (The Green Bone Saga, #1) by Fonda Lee](https://www.goodreads.com/book/show/43587154-jade-city)
 - [The Spare Man by Mary Robinette Kowal](https://www.goodreads.com/book/show/41892799-the-spare-man)
 - [Elder Race by Adrian Tchaikovsky](https://www.goodreads.com/book/show/50663055-elder-race)
