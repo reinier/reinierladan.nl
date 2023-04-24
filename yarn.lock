@@ -115,10 +115,10 @@
   "resolved" "https://registry.npmjs.org/@iarna/toml/-/toml-2.2.5.tgz"
   "version" "2.2.5"
 
-"@netlify/plugin-lighthouse@^4.0.7":
-  "integrity" "sha512-J9oPEJ3/7KcWDGaHuxngSYzyiVR21DKEJ8AmfZs/G2nzG+4fXpLpWsJT/SyKj+tgD8DUxNjffZlCcZZPxIu6Vg=="
-  "resolved" "https://registry.npmjs.org/@netlify/plugin-lighthouse/-/plugin-lighthouse-4.0.7.tgz"
-  "version" "4.0.7"
+"@netlify/plugin-lighthouse@^4.1.1":
+  "integrity" "sha512-eFNzOBOkmNpN9oBro7PSYim/eGZNUJDfV4lJf32HcA2lCzv2fmuZECid7BlfAY3B1KGFh7oT66Z2Pa/OUVbnJw=="
+  "resolved" "https://registry.npmjs.org/@netlify/plugin-lighthouse/-/plugin-lighthouse-4.1.1.tgz"
+  "version" "4.1.1"
   dependencies:
     "chalk" "^4.1.0"
     "chrome-launcher" "^0.15.0"
