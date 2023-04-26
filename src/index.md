@@ -48,23 +48,48 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 </div>
 
+---
+
 ### What people say about me
 
-> "Part structopath, part left-brainer, Reinier is the ideal Interaction Designer. Please don't call him a UX designer, because he's convinced that most experiences cannot be designed. And if you think that's a strong opinion, wait until you've hired him. Reinier comes preloaded with a lot of strong opinions, good design practices and a lot of common sense. Basically, Reinier is the embodiment of the user voice in any development process, determined to make stuff as simple and accessible as possible. Oh, and yes, he's a stand-up and fun guy to work with."
-
+> _"Part structopath, part left-brainer, Reinier is the ideal Interaction Designer. Please don't call him a UX designer, because he's convinced that most experiences cannot be designed. And if you think that's a strong opinion, wait until you've hired him. Reinier comes preloaded with a lot of strong opinions, good design practices and a lot of common sense. Basically, Reinier is the embodiment of the user voice in any development process, determined to make stuff as simple and accessible as possible. Oh, and yes, he's a stand-up and fun guy to work with."_     
 – [David Linssen](https://www.linkedin.com/in/davidlinssen) (Partner in cooperation Kirk & Blackbeard)
 
-> "Reinier is a strong Product Owner with a design background, making him the ideal combination of competencies for this role. He possesses the essential domain knowledge, digital expertise, and background in interaction design. This enables him to better oversee and manage the product he is working on (in this case, the Schiphol App). Reinier always ensures that priorities are set based on the value for the end-user and the resulting business value for the organization. He is very goal-oriented and is able to work effectively with his team towards a jointly developed (product) vision."
-
+> _"Reinier is a strong Product Owner with a design background, making him the ideal combination of competencies for this role. He possesses the essential domain knowledge, digital expertise, and background in interaction design. This enables him to better oversee and manage the product he is working on (in this case, the Schiphol App). Reinier always ensures that priorities are set based on the value for the end-user and the resulting business value for the organization. He is very goal-oriented and is able to work effectively with his team towards a jointly developed (product) vision."_     
 – [Geeske Kloostra](https://www.linkedin.com/in/geeskekloostra) (Portfolio manager during my time at Schiphol)
 
-> "Reinier is punctual, collaborative, and takes responsibility. He was a valuable member of the NOS New Media team for 3 years, where his ability to change stood out. His interaction design of the Second Screen for the 2010 World Cup football resulted in a Beeld en Geluid award in February 2011."
-
+> _"Reinier is punctual, collaborative, and takes responsibility. He was a valuable member of the NOS New Media team for 3 years, where his ability to change stood out. His interaction design of the Second Screen for the 2010 World Cup football resulted in a Beeld en Geluid award in February 2011."_     
 – [Bas Hoedemakers](https://www.linkedin.com/in/bashoedemakers) (Project manager during my time at the NOS)
 
-💎 [More testimonials on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
+<div class="more-testimonials">
+
+🤩 [More testimonials on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
+
+</div>
 
 ---
+
+I know a thing or two about product management and digital design. I’m comfortable in the following roles: 
+
+- Product owner
+- Product manager
+- Product designer
+- UX designer
+- UX researcher
+- Interaction designer
+
+This is an incomplete list of all the competences, skills, tools and processes I have experience with :
+
+- Product management (product owner, project manager) with Scrum and Kanban
+- Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
+- Websites, Native apps, Touchscreen Kiosks, TV apps
+- Design validation and user research (planning and execution)
+- Design System maintenance, organisation and implementation
+- User Story Mapping, Jobs to be Done, Epic roadmaps
+- Jira, Confluence, Figma, Figma Jam, Sketch, Miro
+- OKR's, KPI's
+- Stakeholder management (needs/wants research, product demos and feedback, ideation workshops)
+- Site and data migration projects
 
 <div class="break-out py-10 lg:px-8">
  <a href="/images/Work-Experience.svg"><img src="/images/Work-Experience.svg" alt="Timeline of Reinier Ladan's work experience" /></a>
