@@ -78,7 +78,7 @@ I know a thing or two about product management and digital design. I’m comfort
 - UX researcher
 - Interaction designer
 
-This is an incomplete list of all the competences, skills, tools and processes I have experience with :
+This is an incomplete list of all the competences, skills, tools and processes I have experience with:
 
 - Product management (product owner, project manager) with Scrum and Kanban
 - Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
