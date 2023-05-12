@@ -50,6 +50,31 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 ---
 
+I know a thing or two about product management and digital design. I’m comfortable in the following roles: 
+
+- Product owner
+- Product manager
+- Product designer
+- UX designer
+- UX researcher
+- Interaction designer
+
+This is an incomplete list of all the competences, skills, tools and processes I have experience with:
+
+- Product management (product owner, project manager) with Scrum and Kanban
+- Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
+- Websites, Native apps, Touchscreen Kiosks, TV apps
+- Working with and managing/customising (and even designing) Content Management Systems. Experience with (among others) Wordpress, Netlify, Movable Type, Typo3, Tridion and a large number of custom built systems
+- Design validation and user research (planning and execution)
+- Design System maintenance, organisation and implementation
+- User Story Mapping, Jobs to be Done, Epic roadmaps
+- Jira, Confluence, Figma, Figma Jam, Sketch, Miro and all kinds of personap productity software. In short: throw software at me and I can figure out how it works.
+- OKR's, KPI's, company specific metrics, give me goals to aim for and I'll make it work
+- Stakeholder management (needs/wants research, product demos and feedback, ideation workshops)
+- Site and data migration projects
+
+---
+
 ### What people say about me
 
 > _"Part structopath, part left-brainer, Reinier is the ideal Interaction Designer. Please don't call him a UX designer, because he's convinced that most experiences cannot be designed. And if you think that's a strong opinion, wait until you've hired him. Reinier comes preloaded with a lot of strong opinions, good design practices and a lot of common sense. Basically, Reinier is the embodiment of the user voice in any development process, determined to make stuff as simple and accessible as possible. Oh, and yes, he's a stand-up and fun guy to work with."_     
@@ -68,28 +93,6 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 </div>
 
 ---
-
-I know a thing or two about product management and digital design. I’m comfortable in the following roles: 
-
-- Product owner
-- Product manager
-- Product designer
-- UX designer
-- UX researcher
-- Interaction designer
-
-This is an incomplete list of all the competences, skills, tools and processes I have experience with:
-
-- Product management (product owner, project manager) with Scrum and Kanban
-- Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
-- Websites, Native apps, Touchscreen Kiosks, TV apps
-- Design validation and user research (planning and execution)
-- Design System maintenance, organisation and implementation
-- User Story Mapping, Jobs to be Done, Epic roadmaps
-- Jira, Confluence, Figma, Figma Jam, Sketch, Miro and all kinds of personap productity software. In short: throw software at me and I can figure out how it works.
-- OKR's, KPI's, company specific metrics, give me goals to aim for and I'll make it work
-- Stakeholder management (needs/wants research, product demos and feedback, ideation workshops)
-- Site and data migration projects
 
 <div class="break-out py-10 lg:px-8">
  <a href="/images/Work-Experience.svg"><img src="/images/Work-Experience.svg" alt="Timeline of Reinier Ladan's work experience" /></a>
