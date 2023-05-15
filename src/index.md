@@ -64,7 +64,7 @@ This is an incomplete list of all the competences, skills, tools and processes I
 - Product management (product owner, project manager) with Scrum and Kanban
 - Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
 - Websites, Native apps, Touchscreen Kiosks, TV apps
-- Working with and managing/customising (and even designing) Content Management Systems. Experience with (among others) Wordpress, Netlify, Movable Type, Typo3, Tridion and a large number of custom built systems
+- Working with and managing/customising (and even designing) Content Management Systems. Experience with (among others) Wordpress, Contentful, Movable Type, Typo3, Tridion and a large number of custom built systems
 - Design validation and user research (planning and execution)
 - Design System maintenance, organisation and implementation
 - User Story Mapping, Jobs to be Done, Epic roadmaps
