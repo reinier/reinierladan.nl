@@ -17,4 +17,4 @@ I joined the team just before the official launch of the app. Together with the 
 
 But just launching the app is half of the story. We gradually improved the app week after week, including a connection to other European apps, a pause functionality, and changes according to new LCI (National Coordination of Infectious Disease Control) guidelines.
 
-**This was one of those project where working ‘agile’ was not agile enough**. Because the result of the app was not a large sum of profit for some unknown shareholder but an important part of national healthcare, the team put everything in place to deliver an app in the shortest time possible with the highest quality, security, _and_ privacy standards.
+**This was one of those project where working ‘agile’ was not agile enough**. This was one of those project where working ‘agile’ was not agile enough. Because of the important role for the national healthcare at the time, the team put everything in place to deliver an app in the shortest time possible with the highest quality, security, and privacy standards.
