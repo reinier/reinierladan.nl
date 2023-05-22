@@ -83,13 +83,13 @@
 	h1 {
 		@apply text-4xl mb-12 p-4 mt-40;
 		text-align: center;
-		color: #fff;
+		color: #d83b50;
 		font-weight: 900;
 		/* background-color: #d83b50; */
-		background: #fff url("/images/bg-balloons.jpg") no-repeat center;
-		background-clip: text;
+		/* background: #fff url("/images/bg-balloons.jpg") no-repeat center; */
+		/* background-clip: text;
 		-webkit-background-clip: text;
-		color: rgba(0, 0, 0, 0.1);
+		color: rgba(0, 0, 0, 0.1); */
 	}
 	
 	h1.home-title {
