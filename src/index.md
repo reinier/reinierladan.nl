@@ -13,9 +13,9 @@ eleventyExcludeFromCollections: true
 
 <div class="tldr">
 
-- 👋 Available for **freelance product management or senior design position**
+- 👋 Available for **freelance/contracting product management or senior design position**
 - 🗺️ Open to both **on-site and remote work**
-- 🚀 Partner in the cooperative [Kirk & Blackbeard](https://www.kirkandblackbeard.com/)
+- 🚀 Partner in the co-op [Kirk & Blackbeard](https://www.kirkandblackbeard.com/)
 - 🧑‍💻 [Feel free to connect on LinkedIn](https://www.linkedin.com/in/reinierladan)
 
 </div>
