@@ -40,6 +40,7 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 <div class="project-list">
 
+- 🪐 [DPG Media](/projects/dpg) _(New online platform for single interest brands)_ <span class="lb-product">product</span>
 - 🦠 [CoronaMelder](/projects/coronamelder) _(Dutch COVID exposure notificaton app)_ <span class="lb-product">product</span>
 - 🛫 [Amsterdam Airport Schiphol](/projects/schiphol) _(World-wide highly rated airport)_ <span class="lb-design">design</span> <span class="lb-product">product</span>
 - 📰 [NOS websites and apps](/projects/nos) _(the Dutch equivalent of BBC News)_ <span class="lb-design">design</span>
