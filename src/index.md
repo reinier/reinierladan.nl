@@ -65,9 +65,9 @@ This is an incomplete list of all the competences, skills, tools and processes I
 
 - Product management (product owner, project manager) with Scrum and Kanban
 - Product design (user flows, wireframes, information architecture, visual design, design exploration, expert review)
-- Websites, Native apps, Touchscreen Kiosks, TV apps
+- Design and management of websites, native apps (iOS, Android), Touchscreen Kiosks, TV and console apps
 - Working with and managing/customising (and even designing) Content Management Systems. Experience with (among others) Wordpress, Contentful, Movable Type, Typo3, Tridion, Drupal and a large number of custom built systems
-- Design validation and user research (planning and execution)
+- Product validation and user research (planning and execution)
 - Design System maintenance, organisation and implementation
 - User Story Mapping, Jobs to be Done, Epic roadmaps
 - Jira, Confluence, Figma, Figma Jam, Sketch, Miro and all kinds of personap productity software. In short: throw software at me and I can figure out how it works.
