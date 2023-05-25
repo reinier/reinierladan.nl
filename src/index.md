@@ -50,6 +50,8 @@ Throughout my career, I’ve had the pleasure of working with many notable compa
 
 </div>
 
+I have a design portfolio [available upon request](/contact).
+
 ---
 
 I know a thing or two about product management and digital design. I’m comfortable in the following roles: 
