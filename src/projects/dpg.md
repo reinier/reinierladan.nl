@@ -14,7 +14,7 @@ title: New online platform for single interest brands at DPG Media
 
 [DPG Media](https://nl.wikipedia.org/wiki/DPG_Media) is a large player in the on and offline content publication space in Belgium and the Netherlands.
 
-At DPG, I had the opportunity to give the Single Interest brands (such as vtwonen, Autoweek, and Ouders van Nu) a new digital platform from which to build a modern and user-friendly future. Within the project, a new agnostic frontend was designed, a new CMS was built, and the platform was linked to the existing DPG article system to function as the core provider of content for the platform, including some customisation within that existing content system.
+At DPG, my objective was to give the 'Single Interest' brands (such as vtwonen, Autoweek, and Ouders van Nu) a new multi-tenant digital platform from which to build a modern and user-friendly future. Within the project, a new agnostic frontend was designed, a new CMS was built, and the platform was linked to the existing DPG article system to function as the core provider of content for the platform, including some customisation within that existing content system.
 
 Together with the development team, internal business stakeholders, and the brands themselves, I set up and prepared this platform for migration from the old environment to this new platform as the product owner. 
 
