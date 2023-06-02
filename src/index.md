@@ -72,7 +72,7 @@ This is an incomplete list of all the competences, skills, tools and processes I
 - Product validation and user research (planning and execution)
 - Design System maintenance, organisation and implementation
 - User Story Mapping, Jobs to be Done, Epic roadmaps
-- Jira, Confluence, Figma, Figma Jam, Sketch, Miro and all kinds of personap productity software. In short: throw software at me and I can figure out how it works.
+- Jira, Confluence, Figma, Figma Jam, Sketch, Miro, Trello and all kinds of personal productivity software. In short: throw software at me and I can figure out how it works.
 - OKR's, KPI's, company specific metrics, give me goals to aim for and I'll make it work
 - Stakeholder management (needs/wants research, product demos and feedback, ideation workshops)
 - Site and data migration projects
