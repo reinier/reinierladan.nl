@@ -67,11 +67,11 @@ Modifiers are available as hold options on upper row. I have dedicated thumb key
 
 I use `shift` a lot (I write more then I program), so that's why it's the default right thumb key.
 
-Complete overview of the four thumb keys:
+Complete overview of the four thumb keys, from left tom right:
 
+- *Command* on hold, one shot Command on tap
 - *Spacebar* on tap, hyperkey on hold (actually a meh-key) used for window management with [Amethyst](https://ianyh.com/amethyst/)
 - *Shift* on hold, one shot Shift on tap
-- *Command* on hold, one shot Command on tap
 - *Leader key* (F19) to activate apps and run commands with [Hammerspoon](http://www.hammerspoon.org/)
 
 ### Symbols layer
@@ -94,13 +94,13 @@ Pressing the pinky to access this layer is not ideal. Still figuring out an eleg
 
 ![Keymap with extend layer highlighted](/images/keymap/extend.jpg)
 
-I use this layer to navigate with the arrows and to press tab, enter, and backspace. More things this layer is capable of:
+I use this layer to navigate with the arrows and to press tab, enter, escape, and backspace. More things this layer is capable of:
 
 - `F18` is mapped to my screenshot tool
 - `F17` and `F20` are available for scripting purposes
 - Combos on right hand to press mouse buttons. Comes in handy when using the trackpad with my left hand.
 - Extra `alt`-key to easily activate when navigating with arrow keys on left middle finger.
-- `Caps Word` is a more usable alternative for Capslock where you only type one word in all caps and then the keyboard automatically switched back to lowercase.
+- `Caps Word` is a more usable alternative for Capslock where you only type one word in all caps and then the keyboard automatically switched back to lowercase. It's a [native feature of QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md) nowadays.
 - With the `CP` key you can absorb a digital object and spit it out again. It's copy paste in one single key. Hold for copy, tap for paste.
 - `DEL` key on left hand to use in tandem with a mouse on the right hand.
 
