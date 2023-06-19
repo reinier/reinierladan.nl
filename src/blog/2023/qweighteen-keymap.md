@@ -16,7 +16,7 @@ tags:
 
 The last several years I've messed around with mechanical keyboards, ergonomic keyboards, and designing my own keymaps. The current state of this journey is that I've settled down on a 38-key keyboard (the [Geist Totem](https://github.com/GEIGEIGEIST/TOTEM)), on which I only use 32 keys. The main focus of the keymap is the 18 keys that are the most comfortable to type on for me.
 
-The name Qweighteen comes from the fact that this keymap lets me use a full `QWERTY` layout while getting used to an 18-key layout on the non-base layers. The idea is to have as little finger travel as possible while still using a base layer (qwerty layout) that I'm familiar with.
+The name Qweighteen is a combination of 'qwerty' and 'eighteen'. The keymap lets me use a full `QWERTY` layout while getting used to an 18-key layout on the non-base layers. The idea is to have as little finger travel as possible while still using a base layer (qwerty layout) that I'm familiar with.
 
 It's sort of a halfway point between [an 18-key keyboard](https://github.com/benvallack/zmk-config-piano) and a more 'normal' ergonomic setup of 34 keys.
 
