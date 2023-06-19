@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: An introduction to my keymap 'Qweighteen'
-description: The keymap that I use for my keyboard to get stuff done. The half way point between 34 and 18 keys.
+description: The keymap that I use for my keyboard to get stuff done. The halfway point between 34 and 18 keys.
 date: 2023-06-19
 socialImage: /images/social/qweighteen.jpg
 tags:
@@ -18,7 +18,7 @@ The last several years I've messed around with mechanical keyboards, ergonomic k
 
 The name Qweighteen comes from the fact that this keymap lets me use a full `QWERTY` layout while getting used to an 18-key layout. The idea is to have as little finger travel as possible while still using a base layout (qwerty) that I'm familiar with.
 
-It's sort of a half way point between [an 18-key keyboard](https://github.com/benvallack/zmk-config-piano) and a more 'normal' ergonomic setup of 34 keys.
+It's sort of a halfway point between [an 18-key keyboard](https://github.com/benvallack/zmk-config-piano) and a more 'normal' ergonomic setup of 34 keys.
 
 ## The keymap
 
