@@ -34,7 +34,7 @@ To explore the source of the QMK keymap, go to [my dotfile repository](https://g
 
 ## Why the Totem keyboard?
 
-The Geist Totem has a nice stagger, a usable splay, it's split into two parts and has low profile keys. I can use the very light [Kailh Choc Pink](https://splitkb.com/products/kailh-low-profile-choc-switches) switches on the keyboard.
+The Geist Totem has a nice stagger, a usable splay, it's split into two parts, and has low profile keys. I can use the very light [Kailh Choc Pink](https://splitkb.com/products/kailh-low-profile-choc-switches) switches on the keyboard.
 
 The keyboard that I have in front of me is build by the lovely people of [keeb.supply](https://keeb.supply/), a mechanical keyboard shop in Germany. It's build quality is fantastic and I also use it on the road.
 
