@@ -3,6 +3,7 @@ layout: layouts/base.njk
 title: An introduction to my keymap 'Qweighteen'
 description: The keymap that I use for my keyboard to get stuff done. The half way point between 34 and 18 keys.
 date: 2023-06-19
+socialImage: /images/social/qweighteen.jpg
 tags:
   - blogpost
   - keyboard
@@ -17,7 +18,7 @@ The last several years I've messed around with mechanical keyboards, ergonomic k
 
 The name Qweighteen comes from the fact that this keymap lets me use a full `QWERTY` layout while getting used to an 18-key layout. The idea is to have as little finger travel as possible while still using a base layout (qwerty) that I'm familiar with.
 
-It's sort of a half way point between [an 18-key keyboard](https://github.com/benvallack/zmk-config-piano) and a more 'normal' ergonomnic setup of 34 keys.
+It's sort of a half way point between [an 18-key keyboard](https://github.com/benvallack/zmk-config-piano) and a more 'normal' ergonomic setup of 34 keys.
 
 ## The keymap
 
@@ -33,15 +34,17 @@ To explore the source of the QMK keymap, go to [my dotfile repository](https://g
 
 ## Why the Totem keyboard?
 
-The Geist Totem has a nice stagger, a usable splay, it's split into two parts and has low profile keys. I use the lightest switches that are available, the [Kailh Choc Pink](https://splitkb.com/products/kailh-low-profile-choc-switches). The keyboard that I have in front of me is build by the lovely people of [keeb.supply](https://keeb.supply/), a mechanical keyboard shop in Germany. It's build quality is perfect and I also use it on the road.
+The Geist Totem has a nice stagger, a usable splay, it's split into two parts and has low profile keys. I can use the very light [Kailh Choc Pink](https://splitkb.com/products/kailh-low-profile-choc-switches) switches on the keyboard.
 
-The keycaps that I currently have in use are the [MBK WOG keycaps](https://keeb.supply/products/mbk-wog-keycaps).
+The keyboard that I have in front of me is build by the lovely people of [keeb.supply](https://keeb.supply/), a mechanical keyboard shop in Germany. It's build quality is fantastic and I also use it on the road.
 
-After trying a couple of keyboards over the years (ZSA Moonlander, Boardsource Technik and Microdox, a couple of Keychrons), I've settled on this one as my daily driver.
+The keycaps that I currently use are the [MBK WOG keycaps](https://keeb.supply/products/mbk-wog-keycaps).
+
+After trying a couple of keyboards over the years (ZSA Moonlander, Boardsource Technik and Microdox, and a couple of Keychrons), I've settled on this one as my daily driver.
 
 ## Why only 32 keys? The Totem has 38!
 
-While I have added a function to all the 38 keys on the keyboard, I only need and want to use 32 keys on the base layer. The `;` and the `/` keys are on a symbols layer and I've moved the `p` key to the default right pinky position. All that is left are four thumb keys, dedicated keys for the alphabet and the `,` and `.` keys.
+While I provide a function to all the 38 keys on the keyboard, I only need and want to use 32 keys on the base layer. The `;` and the `/` keys are on a symbols layer and I've moved the `p` key to the default right pinky position. All that is left are four thumb keys, dedicated keys for the alphabet and the `,` and `.` keys.
 
 ## What about those 18 keys on the non-base layers?
 
