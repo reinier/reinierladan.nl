@@ -126,6 +126,14 @@
 	hr {
 		margin: 3em 0;
 	}
+
+	code {
+        background-color: #ddd;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        padding-right: 0.3em;
+        padding-left: 0.3em;
+    }
 }
 
 @layer components {
