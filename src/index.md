@@ -12,6 +12,7 @@ eleventyExcludeFromCollections: true
 </h1>
 
 <div class="tldr">
+	
 - 👋 Available for **freelance, contracting, and fractional product management or UX consultancy**
 - 🗺️ Open to both **on-site and remote work**
 - 🚀 Partner in the co-op [Kirk & Blackbeard](https://www.kirkandblackbeard.com/)
