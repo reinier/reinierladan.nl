@@ -14,6 +14,8 @@ tags:
 
 # {{title}}
 
+📝 [Reinier Ladan](/) - *Monday June 19, 2023* 
+
 The last several years I've messed around with mechanical keyboards, ergonomic keyboards, and designing my own keymaps. The current state of this journey is that I've settled down on a 38-key keyboard (the [Geist Totem](https://github.com/GEIGEIGEIST/TOTEM)), on which I only use 32 keys. The main focus of the keymap is the 18 keys that are the most comfortable to type on for me.
 
 The name Qweighteen is a combination of 'qwerty' and 'eighteen'. The keymap lets me use a full `QWERTY` layout while getting used to an 18-key layout on the non-base layers. The idea is to have as little finger travel as possible while still using a base layer (qwerty layout) that I'm familiar with.
@@ -111,4 +113,14 @@ I use this layer to navigate with the arrows and to press tab, enter, escape, an
 
 My journey with keyboards and keymaps will continue. My next step would probably be introducing a mouse layer and thinking about a more comfortable switch to the numbers layer. The big step forward will be an 18-key keyboard for which I have made a prototype already by stripping my Microdox down to 18 keys. 
 
+## Updates
 
+### Tuesday June 20, 2023
+
+[![The Qweighteen keymap update 2023-06-20](/images/keymap/keymap-qweighteen-230620.jpg)](/images/keymap/keymap-qweighteen-230620.jpg)
+
+*Click the keymap to enlarge*
+
+Introduced a Layer Lock key on the position of the Leader key on the non-base layers. Tap this key and the layer will stay activated until tapped again. This made me able to lock the num layer in an efficient way when needed and because I like symmetry it's available on all the layers. The combo to lock the Extend layer is now gone and I've also added a vanilla spacebar to the extend layer for moving a selection in a graphical editor or screenshot tool.
+
+I've also added a page up and page down key to the Extend layer.
