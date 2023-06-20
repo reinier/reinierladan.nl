@@ -103,7 +103,7 @@ I use this layer to navigate with the arrows and to press tab, enter, escape, an
 - `F17` and `F20` are available for scripting purposes
 - Combos on right hand to press mouse buttons. Comes in handy when using the trackpad with my left hand.
 - Extra `alt`-key to easily activate when navigating with arrow keys on left middle finger.
-- `Caps Word` is a more usable alternative for Capslock where you only type one word in all caps and then the keyboard automatically switched back to lowercase. It's a [native feature of QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md) nowadays.
+- `Caps Word` is a more convenient option compared to Capslock. After you typed a single word in all capital letters, the keyboard automatically returns to lowercase letters. It's a [native feature of QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md) nowadays.
 - With the `CP` key you can absorb a digital object and spit it out again. It's copy paste in one single key. Hold for copy, tap for paste.
 - `DEL` key on left hand to use in tandem with a mouse on the right hand.
 
