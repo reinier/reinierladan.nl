@@ -32,7 +32,7 @@ This is the visual representation of the keymap and a picture of the hardware I'
 
 ![The Totem keyboard](/images/keymap/totem.jpg)
 
-To explore the source of the QMK keymap, go to [my dotfile repository](https://github.com/reinier/dotfiles/tree/main/totem).
+To explore the source of the QMK keymap, go to [my keymap repository](https://github.com/reinier/rlkeymaps).
 
 ## Why the Totem keyboard?
 
