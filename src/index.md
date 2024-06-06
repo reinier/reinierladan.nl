@@ -24,7 +24,7 @@ eleventyExcludeFromCollections: true
 
 As a seasoned professional in the media and tech industry, I have over two decades of experience in managing product teams, designing user interfaces, and building prototypes. 
 
-I'm based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and have my own dedicated office space at home.
+I'm based in the Amsterdam area of the Netherlands, and **I speak Dutch (native language), English, and Jira.** I work in the GMT+1 time zone and I have office space in Amsterdam that I share with other members of the Kirk & Blackbeard cooperation.
 
 In today's fast-paced world, everything is constantly evolving, including business, technology, and people. To keep up with these changes, **I focus on an agile way of working**, such as [Scrum](https://scrumguides.org/scrum-guide.html), [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) or [Shape Up](https://basecamp.com/shapeup). 
 
