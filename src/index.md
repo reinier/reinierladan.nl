@@ -30,7 +30,7 @@ In today's fast-paced world, everything is constantly evolving, including busine
 
 **My expertise in both UX design and software engineering allows me to align product teams in exploring viable solutions**. My passion lies in diving into the details of goals and objectives, figuring out why they exist, identifying which ones should be prioritised and how to solve them. This ensures the most value for the business, the customer, the client, future generations, our climate, you name it.
 
-Throughout my career, I’ve had the pleasure of working with many notable companies, such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), DPG Media,The Dutch Ministry of Health, Welfare and Sport (VWS) and others. I have assisted them in creating and improving their digital strategies, products, and services.
+Throughout my career, I’ve had the pleasure of working with many notable companies, such as Amsterdam Airport Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS (the Dutch equivalent of BBC News), NPO (the Dutch equivalent of the BBC), DPG Media, The Dutch Ministry of Health, Welfare and Sport (VWS) and others. I have assisted them in creating and improving their digital strategies, products, and services.
 
 ![Logos of clients I've worked for](/images/client-overview-2020.png)
 
