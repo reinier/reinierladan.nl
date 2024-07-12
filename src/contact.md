@@ -14,4 +14,4 @@ Call me if you need to discuss something that absolutely cannot wait. For everyt
 
 ## Business info
 
-My company name is **Digital Energy BV** and is registered as a _[besloten vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap)_ in The Netherlands. The company id at the Amsterdam Chambre of Commerce is 24310329.
+My company name is **Usevine BV** and is registered as a _[besloten vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap)_ in The Netherlands. The company id at the Amsterdam Chambre of Commerce is 54420237.
