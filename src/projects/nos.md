@@ -40,3 +40,19 @@ I also got the opportunity to **design the first iPhone and Android app for the 
 During my time at the NOS, I transitioned from a coder who could design to a full-time designer and usability consultant. I got the opportunity to experiment with apps for TV, different audiences, and modular design within an ever-changing organization with a high impact on society.
 
 As you can imagine, I had the time of my life.
+
+Projects:
+- NOS Olympische Spelen Bejing (2008)
+- Quickfix NOS.nl (2008)
+- NOS Voetbal website (2008)
+- Compleet vernieuwde website NOS.nl (2009)
+- PS3 NOS Video app (2009
+- NOS Olympische Spelen Vancouver (2010)
+- NOS Tour de France (2009/2010/2011)
+- NOS Koningshuis website (2009)
+- NOS WK 2010 (2010)
+- NOS Tweedescherm WK 2010 (2010)
+- NOS Tweedescherm Tour de France (2010/2011)
+- NOS Jeugdjournaal (2011)
+- NOS op 3 website (2011)
+- NOS app (2011)
