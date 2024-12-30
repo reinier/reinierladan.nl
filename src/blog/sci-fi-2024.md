@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Favorite sci-fi books read in 2024
 description: When it comes to reading, I’m a very picky person. I only read sci-fi and fantasy books to get my head out of this world and into a more focused state. These are my favorite sci-fi books I read in 2024.
 date: 2024-12-30
-socialImage: /images/social/fav-books-24m.jpg
+socialImage: /images/social/fav-books-24.jpg
 tags:
   - blogpost
   - reading
