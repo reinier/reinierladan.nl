@@ -15,7 +15,6 @@ eleventyExcludeFromCollections: true
 	
 - 👋 Available for **freelance, contracting, and fractional product management or UX consultancy**
 - 🗺️ Open to both **on-site and remote work**
-- 🔮 CEO of design agency [Usevine](https://usevine.nl)
 - 🚀 Partner in the co-op [Kirk & Blackbeard](https://www.kirkandblackbeard.com/)
 - 🧑‍💻 Feel free to connect on LinkedIn [@reinierladan](https://www.linkedin.com/in/reinierladan)
 
