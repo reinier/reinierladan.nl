@@ -60,8 +60,8 @@ I know a thing or two about product management and digital design. I’m comfort
 - Product manager
 - Product designer
 - UX designer
-- UX researcher
 - Interaction designer
+- Prototyper
 
 This is an incomplete list of all the competences, skills, tools and processes I have experience with:
 
