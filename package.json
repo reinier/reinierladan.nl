@@ -26,5 +26,8 @@
 	"private": true,
 	"keywords": [],
 	"name": "reinierladan-nl",
-	"description": ""
+	"description": "",
+	"engines": {
+    "node": ">=18.14.0"
+  }
 }
