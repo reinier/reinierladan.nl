@@ -64,6 +64,3 @@ https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 
 # Other stuff
 /feed /feed.xml 301
-
-# Ultimate fallback
-/* /404/index.html 404
