@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
 	
 - 👋 Available for **freelance, contracting, and fractional product management or UX consultancy**
 - 🗺️ Open to both **on-site and remote work**
-- 🧑‍💻 Feel free to connect on LinkedIn [@reinierladan](https://www.linkedin.com/in/reinierladan)
+- 🧑‍💻 Feel free to connect at LinkedIn [@reinierladan](https://www.linkedin.com/in/reinierladan)
 
 </div>
 
