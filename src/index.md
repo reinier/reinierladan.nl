@@ -78,25 +78,6 @@ This is an incomplete list of all the competences, skills, tools and processes I
 
 ---
 
-### What people say about me
-
-> _"Part structopath, part left-brainer, Reinier is the ideal Interaction Designer. Please don't call him a UX designer, because he's convinced that most experiences cannot be designed. And if you think that's a strong opinion, wait until you've hired him. Reinier comes preloaded with a lot of strong opinions, good design practices and a lot of common sense. Basically, Reinier is the embodiment of the user voice in any development process, determined to make stuff as simple and accessible as possible. Oh, and yes, he's a stand-up and fun guy to work with."_     
-– [David Linssen](https://www.linkedin.com/in/davidlinssen) (Partner in cooperation Kirk & Blackbeard)
-
-> _"Reinier is a strong Product Owner with a design background, making him the ideal combination of competencies for this role. He possesses the essential domain knowledge, digital expertise, and background in interaction design. This enables him to better oversee and manage the product he is working on (in this case, the Schiphol App). Reinier always ensures that priorities are set based on the value for the end-user and the resulting business value for the organization. He is very goal-oriented and is able to work effectively with his team towards a jointly developed (product) vision."_     
-– [Geeske Kloostra](https://www.linkedin.com/in/geeskekloostra) (Portfolio manager during my time at Schiphol)
-
-> _"Reinier is punctual, collaborative, and takes responsibility. He was a valuable member of the NOS New Media team for 3 years, where his ability to change stood out. His interaction design of the Second Screen for the 2010 World Cup football resulted in a Beeld en Geluid award in February 2011."_     
-– [Bas Hoedemakers](https://www.linkedin.com/in/bashoedemakers) (Project manager during my time at the NOS)
-
-<div class="more-testimonials">
-
-🤩 [More testimonials on my LinkedIn profile](https://www.linkedin.com/in/reinierladan).
-
-</div>
-
----
-
 <div class="break-out py-10 lg:px-8">
  <a href="/images/Work-Experience.svg"><img src="/images/Work-Experience.svg" alt="Timeline of Reinier Ladan's work experience" /></a>
 </div>
@@ -106,6 +87,6 @@ This is an incomplete list of all the competences, skills, tools and processes I
 Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or Whatsapp/iMessage.
 
 - Email: reinier@ladan.email
-- Call, WhatsApp, iMessage, Telegram: +31624872725
+- Call, iMessage or Signal: +31624872725
 
 📠 [All contact details](/contact)
