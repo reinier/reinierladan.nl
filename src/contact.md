@@ -6,10 +6,10 @@ eleventyExcludeFromCollections: true
 
 # Contact Reinier Ladan
 
-Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or Whatsapp/iMessage.
+Call me if you need to discuss something that absolutely cannot wait. For everything else I prefer e-mail or a message.
 
 - Email: **reinier@ladan.email**
-- Call, WhatsApp, iMessage, Telegram: **+31624872725**
+- Call, iMessage and Signal: **+31624872725**
 - You can use **Dutch or English** to contact me
 
 ## Business info
