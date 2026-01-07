@@ -39,7 +39,7 @@
 		width: 100%;
 	}
 
-	p {
+	p, figure {
 		@apply mb-4;
 	}
 
