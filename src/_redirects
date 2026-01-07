@@ -1,13 +1,5 @@
 # Redirect domain aliases to primary domain
 
-## reinierladan.com
-https://reinierladan.com/* https://reinierladan.nl/en/:splat 301!
-https://www.reinierladan.com/* https://reinierladan.nl/en/:splat 301!
-
-## rladan.nl
-https://rladan.nl/* https://reinierladan.nl/ 301!
-https://www.rladan.nl/* https://reinierladan.nl/ 301!
-
 ## digitalenergy.nl
 https://digitalenergy.nl/* https://reinierladan.nl/contact 301!
 https://www.digitalenergy.nl/* https://reinierladan.nl/contact 301!
@@ -15,10 +7,6 @@ https://www.digitalenergy.nl/* https://reinierladan.nl/contact 301!
 ## ladan.email
 https://ladan.email/* https://reinierladan.nl/ 301!
 https://www.ladan.email/* https://reinierladan.nl/ 301!
-
-# Redirect to zine page
-https://mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
-https://www.mindermaarbeter.nl/* https://reinierladan.nl/zine/ 301!
 
 # Other stuff
 /feed /feed.xml 301
