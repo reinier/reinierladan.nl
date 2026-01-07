@@ -1,9 +1,10 @@
 ---
+layout: layouts/base.njk
 title: Tress, the accidental captain of the Two Cups
 description: RAFO about how the main character of the most successful Kickstarter of all time became an accidental captain.
-date: 2026-01-07T14:10
-socialPreview: Tress never had the desire to become a captain, but circumstances eventually compelled her to take on the role she was made to be.
-author: Reinier Ladan
+date: 2026-01-07
+tags:
+  - blogpost
 ---
 
 In a galaxy far far away, on a planet with twelve very unique pentagonal shaped seas, there is a captain sailing the Emerald Sea. A sea made out of spores, where each single spore contains an enormous amount of power which is released when it touches water. On this treacherous see, where rain storms are not frequent but definitely not absent, Tress is the captain of the Two Cups.
