@@ -7,6 +7,10 @@ tags:
   - blogpost
 ---
 
+# {{title}}
+
+📝 [Reinier Ladan](/) - *Wednesday January 7, 2026*
+
 In a galaxy far far away, on a planet with twelve very unique pentagonal shaped seas, there is a captain sailing the Emerald Sea. A sea made out of spores, where each single spore contains an enormous amount of power which is released when it touches water. On this treacherous see, where rain storms are not frequent but definitely not absent, Tress is the captain of the Two Cups.
 
 <figure><img src="/images/tress.jpg" width="600" alt="Tress on the Emerald Sea"><figcaption>Artwork by Howard Lyon.</figcaption></figure>
